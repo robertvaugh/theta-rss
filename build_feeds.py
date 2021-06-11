@@ -63,8 +63,6 @@ def get_trades():
 
 
 def generate_feed(trades_for_feed, description, filename):
-    trades_for_feed = sorted(trades_for_feed, reverse=True)
-
     fg = FeedGenerator()
     fg.title("ThetaGang Trades: {description}")
     fg.link(href="https://thetagang.com/")
