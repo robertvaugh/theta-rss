@@ -1,0 +1,58 @@
+name: Run urlwatch
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build_feeds:
+    runs-on: ubuntu-20.04
+    steps:
+
+      - name: Checkout configuration
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Cache python dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: urlwatch-pip
+
+      - name: Install requirements
+        run: |
+          pip install -U pip wheel
+          pip install -U -r requirements.txt
+
+      - name: Restore cache database
+        run: |
+          #!/bin/bash
+          git fetch --all
+          if git checkout origin/cache-db feeds.db.gz; then
+            mv feeds.db.gz .
+            gunzip -v feeds.db.gz
+          else
+            sqlite3 feeds.db <<< ".tables"
+          fi
+
+      - name: Build feeds
+        run: ./build_feeds.py
+
+      - name: Compress and move db
+        run: |
+          mkdir -vp database/
+          gzip -vc feeds.db > database/feeds.db.gz
+
+      - name: Store database
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: cache-db
+          FOLDER: database
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # SQUASH_HISTORY: true
