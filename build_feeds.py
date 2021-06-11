@@ -198,13 +198,13 @@ for trade_type in [x.trade_type for x in trade_types]:
     trades_for_type = (
         Trade
         .select()
-        .where(Trade.win==False)
+        .where(Trade.trade_type==trade_type)
         .order_by(Trade.updated_at.desc())
         .limit(100)
         .order_by(Trade.updated_at.asc())
     )
     generate_feed(
-        all_trades,
-        "Only {trade_type.lower()} trades",
+        trades_for_type,
+        f"Only {trade_type.lower()} trades",
         f"trades_{trade_type_filename}.xml"
     )
