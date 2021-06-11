@@ -64,9 +64,9 @@ def get_trades():
 
 def generate_feed(trades_for_feed, description, filename):
     fg = FeedGenerator()
-    fg.title("ThetaGang Trades: {description}")
+    fg.title(f"ThetaGang Trades: {description}")
     fg.link(href="https://thetagang.com/")
-    fg.description("ThetaGang Trades: {description}")
+    fg.description(f"ThetaGang Trades: {description}")
 
     for index, trade in enumerate(trades_for_feed):
         short_summary, long_summary = get_trade_summary(trade)
