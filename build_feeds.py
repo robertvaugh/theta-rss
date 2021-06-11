@@ -185,3 +185,26 @@ all_trades = (
     .order_by(Trade.updated_at.asc())
 )
 generate_feed(all_trades, "Losing trades only", "trades_losing.xml")
+
+# Get a specific trade type.
+trade_types = (
+    Trade
+    .select(Trade.trade_type)
+    .order_by(Trade.trade_type)
+    .distinct()
+)
+for trade_type in [x.trade_type for x in trade_types]:
+    trade_type_filename = trade_type.lower().replace(" ", "_")
+    trades_for_type = (
+        Trade
+        .select()
+        .where(Trade.win==False)
+        .order_by(Trade.updated_at.desc())
+        .limit(100)
+        .order_by(Trade.updated_at.asc())
+    )
+    generate_feed(
+        all_trades,
+        "Only {trade_type.lower()} trades",
+        f"trades_{trade_type_filename}.xml"
+    )
