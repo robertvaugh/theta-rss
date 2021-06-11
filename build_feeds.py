@@ -73,7 +73,10 @@ def generate_feed(trades_for_feed, description, filename):
         short_summary, long_summary = get_trade_summary(trade)
 
         item = fg.add_entry()
-        item.id(str(trade.guid))
+        if trade.close_date:
+            item.id(f"{str(trade.guid)}-closing")
+        else:
+            item.id(f"{str(trade.guid)}-opening")
         item.link(href=f"https://thetagang.com/{trade.user_name}/{trade.guid}")
         item.title(short_summary)
         item.description(long_summary)
