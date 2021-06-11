@@ -149,6 +149,7 @@ all_trades = (
     .select()
     .order_by(Trade.updated_at.desc())
     .limit(100)
+    .order_by(Trade.updated_at.asc())
 )
 generate_feed(all_trades, "All trades", "trades_all.xml")
 
@@ -159,6 +160,7 @@ all_trades = (
     .where(Trade.user_role=='patron')
     .order_by(Trade.updated_at.desc())
     .limit(100)
+    .order_by(Trade.updated_at.asc())
 )
 generate_feed(all_trades, "Patreon trades only", "trades_patron.xml")
 
@@ -169,6 +171,7 @@ all_trades = (
     .where(Trade.win==True)
     .order_by(Trade.updated_at.desc())
     .limit(100)
+    .order_by(Trade.updated_at.asc())
 )
 generate_feed(all_trades, "Winning trades only", "trades_winning.xml")
 
@@ -179,5 +182,6 @@ all_trades = (
     .where(Trade.win==False)
     .order_by(Trade.updated_at.desc())
     .limit(100)
+    .order_by(Trade.updated_at.asc())
 )
 generate_feed(all_trades, "Losing trades only", "trades_losing.xml")
