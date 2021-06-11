@@ -1,4 +1,4 @@
-name: Run urlwatch
+name: Build RSS Feeds
 on:
   push:
     branches:
