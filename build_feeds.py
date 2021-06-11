@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 """Generate RSS feeds from trades on thetagang.com."""
-from datetime import datetime
+# from datetime import datetime
 import json
 
+from dateutil import parser
 from feedgen.feed import FeedGenerator
 import peewee
 import requests
@@ -75,9 +76,20 @@ def generate_feed(trades_for_feed, description, filename):
         item.id(str(trade.guid))
         item.link(href=f"https://thetagang.com/{trade.user_name}/{trade.guid}")
         item.title(short_summary)
+        item.description(long_summary)
         item.pubDate(trade.updated_at)
 
     fg.rss_file(filename, pretty=True)
+
+
+def get_emoji(trade):
+    if trade.close_date:
+        if trade.win:
+            return "🎉"
+        else:
+            return "🤦🏻‍♂️"
+    else:
+        return "🌅"
 
 
 def get_trade_summary(trade):
@@ -91,11 +103,21 @@ def get_trade_summary(trade):
         else:
             action = "opened a"
 
+        expiration_string = ""
+        if trade.expiry_date:
+            expiration_date = parser.parse(trade.expiry_date).strftime("%Y-%m-%d")
+            expiration_string = f"expiring {expiration_date}"
         short_summary = (
-            f"{trade.user_name} {action} {trade.trade_type.lower()} on "
-            f"${trade.symbol}"
+            f"{get_emoji(trade)} {trade.user_name} {action} "
+            f"{trade.trade_type.lower()} on ${trade.symbol} {expiration_string}"
         )
-        return (short_summary, None)
+
+        long_summary = (
+            "For more details, "
+            f"<a href='https://thetagang.com/{trade.user_name}/{trade.guid}'>"
+            "view this trade on thetagang.com</a>"
+        )
+        return (short_summary, long_summary)
 
 for new_trade in get_trades():
     user_id = (
