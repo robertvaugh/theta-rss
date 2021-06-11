@@ -56,10 +56,10 @@ Trade.create_table()
 
 def get_trades():
     """Retrieve the latest set of trades."""
-    # resp = requests.get("https://api.thetagang.com/trades")
-    # return resp.json()['data']['trades']
-    with open('trades', 'rb') as fileh:
-        return json.load(fileh)['data']['trades']
+    resp = requests.get("https://api.thetagang.com/trades")
+    return resp.json()['data']['trades']
+    # with open('trades', 'rb') as fileh:
+    #     return json.load(fileh)['data']['trades']
 
 
 def generate_feed(trades_for_feed, description, filename):
