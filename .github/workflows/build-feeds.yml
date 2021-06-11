@@ -34,7 +34,6 @@ jobs:
           #!/bin/bash
           git fetch --all
           if git checkout origin/cache-db feeds.db.gz; then
-            mv feeds.db.gz .
             gunzip -v feeds.db.gz
           else
             sqlite3 feeds.db <<< ".tables"
