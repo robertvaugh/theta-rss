@@ -87,10 +87,7 @@ def generate_feed(trades_for_feed, description, filename):
 
 def get_emoji(trade):
     if trade.close_date:
-        if trade.win:
-            return "🎉"
-        else:
-            return "🤦🏻‍♂️"
+        return "🏁"
     else:
         return "🌅"
 
