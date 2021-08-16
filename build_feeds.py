@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """Generate RSS feeds from trades on thetagang.com."""
-# from datetime import datetime
 import json
 
 from dateutil import parser
