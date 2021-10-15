@@ -210,6 +210,7 @@ trade_types = (
     .order_by(Trade.trade_type)
     .distinct()
 )
+
 for trade_type in [x.trade_type for x in trade_types]:
     trade_type_filename = trade_type.lower().replace(" ", "_")
     trades_for_type = (
