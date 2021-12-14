@@ -1,6 +1,6 @@
 # RSS feeds for thetagang.com
 
-🚧 Totally unauthorized and 💯 beta
+🚧 Totally unauthorized and 💯 beta. **If you're using this site, please [let me know](mailto:major@mhtx.net)**!
 
 These RSS feeds are updated frequently and may stop working at any time (or they
 may make your computer chase cars.)
