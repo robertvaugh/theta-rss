@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only put debit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only put debit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-06-17</title>
+      <link>https://thetagang.com/Stizzle/a8111f27-53f0-4e82-bb2e-8dd3c57f9098</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/a8111f27-53f0-4e82-bb2e-8dd3c57f9098'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a8111f27-53f0-4e82-bb2e-8dd3c57f9098-opening</guid>
+      <pubDate>Tue, 24 May 2022 14:04:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a put debit spread on $SPY expiring 2022-05-25</title>
+      <link>https://thetagang.com/Stizzle/ab3b0c24-c4f5-4f3e-b47a-d1b599190af1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/ab3b0c24-c4f5-4f3e-b47a-d1b599190af1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ab3b0c24-c4f5-4f3e-b47a-d1b599190af1-closing</guid>
+      <pubDate>Tue, 24 May 2022 14:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-06-17</title>
+      <link>https://thetagang.com/Stizzle/3a3743f9-13e4-4ff3-b872-3c36f512da33</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3a3743f9-13e4-4ff3-b872-3c36f512da33'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3a3743f9-13e4-4ff3-b872-3c36f512da33-opening</guid>
+      <pubDate>Tue, 24 May 2022 14:07:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 OmniTrio closed a put debit spread on $ANF expiring 2022-05-27</title>
+      <link>https://thetagang.com/OmniTrio/c20afa75-8b8b-49b7-bbac-3f0604098289</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/c20afa75-8b8b-49b7-bbac-3f0604098289'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c20afa75-8b8b-49b7-bbac-3f0604098289-closing</guid>
+      <pubDate>Tue, 24 May 2022 14:53:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $AMT expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/f67ded20-a582-4239-b7e7-1960b5f488b5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f67ded20-a582-4239-b7e7-1960b5f488b5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f67ded20-a582-4239-b7e7-1960b5f488b5-opening</guid>
+      <pubDate>Tue, 24 May 2022 17:46:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-05-27</title>
+      <link>https://thetagang.com/Stizzle/75238af7-3719-42d8-9fbe-fb04dd629043</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/75238af7-3719-42d8-9fbe-fb04dd629043'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">75238af7-3719-42d8-9fbe-fb04dd629043-opening</guid>
+      <pubDate>Wed, 25 May 2022 15:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $QQQ expiring 2022-05-27</title>
+      <link>https://thetagang.com/Stizzle/1afc2df9-1a72-4b98-9ed6-6a688c92ef19</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/1afc2df9-1a72-4b98-9ed6-6a688c92ef19'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1afc2df9-1a72-4b98-9ed6-6a688c92ef19-opening</guid>
+      <pubDate>Wed, 25 May 2022 18:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-05-27</title>
+      <link>https://thetagang.com/Stizzle/df653bfe-f003-4995-b847-cf91ad6cccf8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/df653bfe-f003-4995-b847-cf91ad6cccf8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">df653bfe-f003-4995-b847-cf91ad6cccf8-opening</guid>
+      <pubDate>Wed, 25 May 2022 18:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-06-17</title>
+      <link>https://thetagang.com/Stizzle/1a56fafb-3f48-4889-b612-5dfae3389e50</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/1a56fafb-3f48-4889-b612-5dfae3389e50'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1a56fafb-3f48-4889-b612-5dfae3389e50-opening</guid>
+      <pubDate>Wed, 25 May 2022 18:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 WallStPepe opened a put debit spread on $TLT expiring 2022-07-15</title>
+      <link>https://thetagang.com/WallStPepe/d1797f5f-99ef-4c51-86f8-d27aee923001</link>
+      <description>For more details, &lt;a href='https://thetagang.com/WallStPepe/d1797f5f-99ef-4c51-86f8-d27aee923001'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1797f5f-99ef-4c51-86f8-d27aee923001-opening</guid>
+      <pubDate>Thu, 26 May 2022 16:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a put debit spread on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/antimeta/528037ff-38d0-44a0-9289-a07930a9cb28</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/528037ff-38d0-44a0-9289-a07930a9cb28'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">528037ff-38d0-44a0-9289-a07930a9cb28-opening</guid>
+      <pubDate>Thu, 26 May 2022 17:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $HYG expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/e50a2aea-d9fe-4e6f-ba62-1b24db269527</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e50a2aea-d9fe-4e6f-ba62-1b24db269527'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e50a2aea-d9fe-4e6f-ba62-1b24db269527-opening</guid>
+      <pubDate>Thu, 26 May 2022 17:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $DFS expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/b947ac60-b59b-4469-9795-c8a1518a9088</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/b947ac60-b59b-4469-9795-c8a1518a9088'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b947ac60-b59b-4469-9795-c8a1518a9088-opening</guid>
+      <pubDate>Thu, 26 May 2022 18:01:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a put debit spread on $COST expiring 2022-06-03</title>
+      <link>https://thetagang.com/dom747/e82ed962-1fb0-4561-a7ce-49b2e0456441</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/e82ed962-1fb0-4561-a7ce-49b2e0456441'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e82ed962-1fb0-4561-a7ce-49b2e0456441-opening</guid>
+      <pubDate>Thu, 26 May 2022 18:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $JBHT expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/0c940a21-c407-4878-b0d2-2ce8231461ea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0c940a21-c407-4878-b0d2-2ce8231461ea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0c940a21-c407-4878-b0d2-2ce8231461ea-opening</guid>
+      <pubDate>Thu, 26 May 2022 20:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $CAT expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/7f4cb533-0095-47bf-8d21-fa3d2e14701d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7f4cb533-0095-47bf-8d21-fa3d2e14701d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7f4cb533-0095-47bf-8d21-fa3d2e14701d-opening</guid>
+      <pubDate>Fri, 27 May 2022 18:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 njdeleon opened a put debit spread on $AAPL expiring 2022-07-15</title>
+      <link>https://thetagang.com/njdeleon/6d9df454-9c37-4a26-8a8e-50ece4d2f2b3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/6d9df454-9c37-4a26-8a8e-50ece4d2f2b3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6d9df454-9c37-4a26-8a8e-50ece4d2f2b3-opening</guid>
+      <pubDate>Tue, 31 May 2022 16:17:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $XHB expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/fac1c70b-dade-4b8d-92f4-414188d9c0fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/fac1c70b-dade-4b8d-92f4-414188d9c0fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fac1c70b-dade-4b8d-92f4-414188d9c0fa-opening</guid>
+      <pubDate>Tue, 31 May 2022 19:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 j3ff_ opened a put debit spread on $AIG expiring 2022-08-19</title>
+      <link>https://thetagang.com/j3ff_/8f77f9b3-7bba-4578-9829-65fd286f67a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j3ff_/8f77f9b3-7bba-4578-9829-65fd286f67a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f77f9b3-7bba-4578-9829-65fd286f67a9-opening</guid>
+      <pubDate>Wed, 01 Jun 2022 17:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $COF expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/dcaabc32-e24c-49a8-aef1-018c17923a95</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/dcaabc32-e24c-49a8-aef1-018c17923a95'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dcaabc32-e24c-49a8-aef1-018c17923a95-opening</guid>
+      <pubDate>Wed, 01 Jun 2022 19:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $XLU expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/dc789ff9-1a0e-4d98-9571-0ab9f9211c3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/dc789ff9-1a0e-4d98-9571-0ab9f9211c3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc789ff9-1a0e-4d98-9571-0ab9f9211c3c-opening</guid>
+      <pubDate>Fri, 03 Jun 2022 19:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $WM expiring 2022-06-17</title>
+      <link>https://thetagang.com/Burnttoast/e2395a68-4fe1-4f7a-9591-8210574b05ef</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/e2395a68-4fe1-4f7a-9591-8210574b05ef'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e2395a68-4fe1-4f7a-9591-8210574b05ef-closing</guid>
+      <pubDate>Mon, 06 Jun 2022 14:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $SBUX expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/3e9ed9f1-47f0-4ba7-a2f4-675358a5355f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/3e9ed9f1-47f0-4ba7-a2f4-675358a5355f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e9ed9f1-47f0-4ba7-a2f4-675358a5355f-opening</guid>
+      <pubDate>Mon, 06 Jun 2022 20:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $SBUX expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/2d589678-5bec-4014-b5d7-e64c0c683054</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/2d589678-5bec-4014-b5d7-e64c0c683054'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2d589678-5bec-4014-b5d7-e64c0c683054-opening</guid>
+      <pubDate>Tue, 07 Jun 2022 15:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $IYR expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/8c07d01b-9c0d-4f08-9166-4c59208c72a3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8c07d01b-9c0d-4f08-9166-4c59208c72a3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8c07d01b-9c0d-4f08-9166-4c59208c72a3-opening</guid>
+      <pubDate>Wed, 08 Jun 2022 18:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put debit spread on $CAT expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/975f865a-dde8-416d-a7ee-bfeca5c39494</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/975f865a-dde8-416d-a7ee-bfeca5c39494'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">975f865a-dde8-416d-a7ee-bfeca5c39494-closing</guid>
+      <pubDate>Thu, 09 Jun 2022 13:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a put debit spread on $UPS expiring 2022-06-17</title>
+      <link>https://thetagang.com/ARFFman/c976b78a-5cff-4d77-905f-6fffc568e1ef</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/c976b78a-5cff-4d77-905f-6fffc568e1ef'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c976b78a-5cff-4d77-905f-6fffc568e1ef-opening</guid>
+      <pubDate>Thu, 09 Jun 2022 14:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $XOM expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/cf1e16d4-a412-4a94-9b46-9cdbad7ce9cc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/cf1e16d4-a412-4a94-9b46-9cdbad7ce9cc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cf1e16d4-a412-4a94-9b46-9cdbad7ce9cc-closing</guid>
+      <pubDate>Thu, 09 Jun 2022 15:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $FB expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/26726446-5af3-4101-a2f5-4ce36d2a15c0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/26726446-5af3-4101-a2f5-4ce36d2a15c0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">26726446-5af3-4101-a2f5-4ce36d2a15c0-closing</guid>
+      <pubDate>Fri, 10 Jun 2022 04:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $EA expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/3a7b4726-1b09-4bf3-8b80-eaaef02c7dea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/3a7b4726-1b09-4bf3-8b80-eaaef02c7dea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3a7b4726-1b09-4bf3-8b80-eaaef02c7dea-closing</guid>
+      <pubDate>Fri, 10 Jun 2022 04:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a put debit spread on $TQQQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/Saxi/a64bca03-9130-4ef6-b626-4cd6c6f2410d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/a64bca03-9130-4ef6-b626-4cd6c6f2410d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a64bca03-9130-4ef6-b626-4cd6c6f2410d-opening</guid>
+      <pubDate>Fri, 10 Jun 2022 13:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jackey1984 opened a put debit spread on $TSLA expiring 2022-06-16</title>
+      <link>https://thetagang.com/jackey1984/7784bf07-58dc-460a-9c7d-14ddd706a1f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/7784bf07-58dc-460a-9c7d-14ddd706a1f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7784bf07-58dc-460a-9c7d-14ddd706a1f0-opening</guid>
+      <pubDate>Sat, 11 Jun 2022 04:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/7d29f16d-b55c-4c7d-838f-9e2aed9dded3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/7d29f16d-b55c-4c7d-838f-9e2aed9dded3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d29f16d-b55c-4c7d-838f-9e2aed9dded3-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 19:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/b6d30716-ed6e-40fa-9571-2771ca944748</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/b6d30716-ed6e-40fa-9571-2771ca944748'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b6d30716-ed6e-40fa-9571-2771ca944748-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 19:02:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $QQQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/df4452a9-f3f3-4e33-9323-01da5945e68f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/df4452a9-f3f3-4e33-9323-01da5945e68f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">df4452a9-f3f3-4e33-9323-01da5945e68f-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 19:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KR expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/a7fd2176-f4d7-4eee-99a1-940625e07133</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a7fd2176-f4d7-4eee-99a1-940625e07133'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a7fd2176-f4d7-4eee-99a1-940625e07133-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 19:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KNX expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/c37181f5-b491-40c6-beca-d7e7bc85941e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c37181f5-b491-40c6-beca-d7e7bc85941e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c37181f5-b491-40c6-beca-d7e7bc85941e-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 19:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/bd9ec87d-84dd-43df-b254-82f58f3d5a87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/bd9ec87d-84dd-43df-b254-82f58f3d5a87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bd9ec87d-84dd-43df-b254-82f58f3d5a87-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 14:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a put debit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/ae0b0a59-95e4-4ba4-84a5-21a0924fb237</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/ae0b0a59-95e4-4ba4-84a5-21a0924fb237'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ae0b0a59-95e4-4ba4-84a5-21a0924fb237-closing</guid>
+      <pubDate>Tue, 14 Jun 2022 19:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/cd36636a-f9f2-4694-88eb-de8961cfd0ac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/cd36636a-f9f2-4694-88eb-de8961cfd0ac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cd36636a-f9f2-4694-88eb-de8961cfd0ac-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 19:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $QQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/789e29ed-4e76-41d7-b463-36e0043f5f36</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/789e29ed-4e76-41d7-b463-36e0043f5f36'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">789e29ed-4e76-41d7-b463-36e0043f5f36-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 19:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $QQQ expiring 2022-07-01</title>
+      <link>https://thetagang.com/Stizzle/c8d10e9d-eec3-4e7b-b425-e7e8bd6587ac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/c8d10e9d-eec3-4e7b-b425-e7e8bd6587ac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c8d10e9d-eec3-4e7b-b425-e7e8bd6587ac-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 19:31:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $NFLX expiring 2022-07-15</title>
+      <link>https://thetagang.com/Burnttoast/6f2a491d-ef8f-446b-b1fc-3bf901843a0a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/6f2a491d-ef8f-446b-b1fc-3bf901843a0a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6f2a491d-ef8f-446b-b1fc-3bf901843a0a-opening</guid>
+      <pubDate>Wed, 15 Jun 2022 06:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $TTWO expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/82a67455-9bf0-4cca-a7bb-2d8ea1c5746f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/82a67455-9bf0-4cca-a7bb-2d8ea1c5746f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">82a67455-9bf0-4cca-a7bb-2d8ea1c5746f-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 17:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $QQQ expiring 2022-07-01</title>
+      <link>https://thetagang.com/Stizzle/789e49ea-9fcc-4293-ba12-0f44665a326c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/789e49ea-9fcc-4293-ba12-0f44665a326c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">789e49ea-9fcc-4293-ba12-0f44665a326c-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 17:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $TTWO expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/9fbd6a7f-9edf-4fff-98c7-5e8f6c5223a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9fbd6a7f-9edf-4fff-98c7-5e8f6c5223a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9fbd6a7f-9edf-4fff-98c7-5e8f6c5223a5-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 14:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 comfortcube opened a put debit spread on $PLTR expiring 2022-06-24</title>
+      <link>https://thetagang.com/comfortcube/2e971efe-4c28-4f94-8593-c2ffbf9ef780</link>
+      <description>For more details, &lt;a href='https://thetagang.com/comfortcube/2e971efe-4c28-4f94-8593-c2ffbf9ef780'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e971efe-4c28-4f94-8593-c2ffbf9ef780-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 13:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KR expiring 2022-07-29</title>
+      <link>https://thetagang.com/jrue/af894dab-025a-4b69-80c7-c359cfc478cf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/af894dab-025a-4b69-80c7-c359cfc478cf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af894dab-025a-4b69-80c7-c359cfc478cf-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 20:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $AMT expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/4ad61cac-0798-4689-82ee-5d4098ea1b87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/4ad61cac-0798-4689-82ee-5d4098ea1b87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4ad61cac-0798-4689-82ee-5d4098ea1b87-opening</guid>
+      <pubDate>Thu, 23 Jun 2022 15:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 antimeta closed a put debit spread on $AMD expiring 2022-06-24</title>
+      <link>https://thetagang.com/antimeta/e914dedb-0c0f-4e35-8dc4-76a57a71e915</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/e914dedb-0c0f-4e35-8dc4-76a57a71e915'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e914dedb-0c0f-4e35-8dc4-76a57a71e915-closing</guid>
+      <pubDate>Thu, 23 Jun 2022 20:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a put debit spread on $AAPL expiring 2022-07-15</title>
+      <link>https://thetagang.com/njdeleon/294ab7eb-f37b-4abe-ab45-ff09e339d8e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/294ab7eb-f37b-4abe-ab45-ff09e339d8e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">294ab7eb-f37b-4abe-ab45-ff09e339d8e8-closing</guid>
+      <pubDate>Thu, 23 Jun 2022 22:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KNX expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/f3f0f49e-f007-4657-a7ce-934ce9074066</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f3f0f49e-f007-4657-a7ce-934ce9074066'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3f0f49e-f007-4657-a7ce-934ce9074066-opening</guid>
+      <pubDate>Fri, 24 Jun 2022 15:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ratskle opened a put debit spread on $SPY expiring 2022-07-11</title>
+      <link>https://thetagang.com/Ratskle/72a54dee-b491-46f2-8600-d23e51477eaf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ratskle/72a54dee-b491-46f2-8600-d23e51477eaf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">72a54dee-b491-46f2-8600-d23e51477eaf-opening</guid>
+      <pubDate>Fri, 24 Jun 2022 21:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ratskle opened a put debit spread on $SPY expiring 2022-07-01</title>
+      <link>https://thetagang.com/Ratskle/fb870874-f738-424f-b163-b1d2c18e8c8b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ratskle/fb870874-f738-424f-b163-b1d2c18e8c8b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb870874-f738-424f-b163-b1d2c18e8c8b-opening</guid>
+      <pubDate>Fri, 24 Jun 2022 21:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $IYR expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/8c5c891f-9836-4812-b589-6a5eb257ee2e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8c5c891f-9836-4812-b589-6a5eb257ee2e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8c5c891f-9836-4812-b589-6a5eb257ee2e-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 16:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $XLU expiring 2022-07-29</title>
+      <link>https://thetagang.com/jrue/a8c3f25c-0813-4996-b710-488020f077e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a8c3f25c-0813-4996-b710-488020f077e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a8c3f25c-0813-4996-b710-488020f077e8-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 17:32:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $LI expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/cbd1cfc4-b03a-44a5-a2ea-fb95955f469b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/cbd1cfc4-b03a-44a5-a2ea-fb95955f469b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cbd1cfc4-b03a-44a5-a2ea-fb95955f469b-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 18:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a put debit spread on $LI expiring 2022-08-18</title>
+      <link>https://thetagang.com/Akane/aebaf607-bf9e-4fbf-94d2-117ad8f59ed1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/aebaf607-bf9e-4fbf-94d2-117ad8f59ed1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aebaf607-bf9e-4fbf-94d2-117ad8f59ed1-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 19:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jackey1984 opened a put debit spread on $TSLA expiring 2022-06-30</title>
+      <link>https://thetagang.com/jackey1984/7834c462-ccef-414a-bf1a-435a4fabd0dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/7834c462-ccef-414a-bf1a-435a4fabd0dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7834c462-ccef-414a-bf1a-435a4fabd0dd-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 11:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put debit spread on $NKE expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/e8331243-f231-431a-a6d6-8c22871abcc7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e8331243-f231-431a-a6d6-8c22871abcc7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e8331243-f231-431a-a6d6-8c22871abcc7-closing</guid>
+      <pubDate>Tue, 28 Jun 2022 14:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $DFS expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/1d14cbda-856f-4c44-9107-23c8d52035d6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/1d14cbda-856f-4c44-9107-23c8d52035d6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d14cbda-856f-4c44-9107-23c8d52035d6-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 15:22:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KR expiring 2022-08-05</title>
+      <link>https://thetagang.com/jrue/1276a226-5a0e-46ad-937d-f1342dca8d0b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/1276a226-5a0e-46ad-937d-f1342dca8d0b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1276a226-5a0e-46ad-937d-f1342dca8d0b-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 18:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $AMZN expiring 2022-07-01</title>
+      <link>https://thetagang.com/Stizzle/e24f7fe4-98e4-4fa4-8cae-8e8164e93f15</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/e24f7fe4-98e4-4fa4-8cae-8e8164e93f15'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e24f7fe4-98e4-4fa4-8cae-8e8164e93f15-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 19:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put debit spread on $CAT expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/c5da6a34-2dae-469a-8775-f1a4906cc395</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c5da6a34-2dae-469a-8775-f1a4906cc395'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c5da6a34-2dae-469a-8775-f1a4906cc395-closing</guid>
+      <pubDate>Wed, 29 Jun 2022 16:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/d4f1d324-063f-4e7b-bea2-2c696c0c67f9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/d4f1d324-063f-4e7b-bea2-2c696c0c67f9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d4f1d324-063f-4e7b-bea2-2c696c0c67f9-opening</guid>
+      <pubDate>Wed, 29 Jun 2022 17:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $CRM expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/d1c9c8c8-0dd1-4aeb-8b78-fc04a880ef42</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/d1c9c8c8-0dd1-4aeb-8b78-fc04a880ef42'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1c9c8c8-0dd1-4aeb-8b78-fc04a880ef42-closing</guid>
+      <pubDate>Wed, 29 Jun 2022 17:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Jaxkson22 closed a put debit spread on $AMD expiring 2022-06-30</title>
+      <link>https://thetagang.com/Jaxkson22/f29b8ba1-2ac1-40a9-b580-e5e8582d9ac4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jaxkson22/f29b8ba1-2ac1-40a9-b580-e5e8582d9ac4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f29b8ba1-2ac1-40a9-b580-e5e8582d9ac4-closing</guid>
+      <pubDate>Thu, 30 Jun 2022 20:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/f1d73dfc-1099-440c-98e1-92cbe50e9677</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/f1d73dfc-1099-440c-98e1-92cbe50e9677'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1d73dfc-1099-440c-98e1-92cbe50e9677-opening</guid>
+      <pubDate>Thu, 30 Jun 2022 22:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $MU expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/ed5654e3-a763-47ec-adc9-1b3e81bb215b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/ed5654e3-a763-47ec-adc9-1b3e81bb215b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ed5654e3-a763-47ec-adc9-1b3e81bb215b-closing</guid>
+      <pubDate>Thu, 30 Jun 2022 22:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a put debit spread on $AAPL expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/f0172ebf-bf70-4d14-bd29-56cd641a1a38</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/f0172ebf-bf70-4d14-bd29-56cd641a1a38'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f0172ebf-bf70-4d14-bd29-56cd641a1a38-opening</guid>
+      <pubDate>Fri, 01 Jul 2022 15:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $JBHT expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/a3965468-9648-4ce1-b72e-4ba28ca3cbc5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a3965468-9648-4ce1-b72e-4ba28ca3cbc5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a3965468-9648-4ce1-b72e-4ba28ca3cbc5-opening</guid>
+      <pubDate>Fri, 01 Jul 2022 20:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put debit spread on $AMT expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/e96d5761-ad30-4b27-807e-5e8fa8e40a00</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e96d5761-ad30-4b27-807e-5e8fa8e40a00'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e96d5761-ad30-4b27-807e-5e8fa8e40a00-closing</guid>
+      <pubDate>Tue, 05 Jul 2022 16:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $AMT expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/ad394686-6817-419e-baa4-ae4b1d0a82b7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ad394686-6817-419e-baa4-ae4b1d0a82b7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad394686-6817-419e-baa4-ae4b1d0a82b7-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 16:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a put debit spread on $XOM expiring 2022-09-16</title>
+      <link>https://thetagang.com/njdeleon/94ec519f-b869-4355-8e53-bbb5a2e8c1e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/94ec519f-b869-4355-8e53-bbb5a2e8c1e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">94ec519f-b869-4355-8e53-bbb5a2e8c1e7-closing</guid>
+      <pubDate>Wed, 06 Jul 2022 16:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $IYR expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/0aef1bf0-92ac-4401-ba7b-04c4ae44b327</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0aef1bf0-92ac-4401-ba7b-04c4ae44b327'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0aef1bf0-92ac-4401-ba7b-04c4ae44b327-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 18:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $META expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/c6b18a7f-5178-48b9-8c63-a06388e907bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c6b18a7f-5178-48b9-8c63-a06388e907bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c6b18a7f-5178-48b9-8c63-a06388e907bf-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 14:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $NKE expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/1302ce6a-65d4-41e3-90f0-0908b9512644</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/1302ce6a-65d4-41e3-90f0-0908b9512644'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1302ce6a-65d4-41e3-90f0-0908b9512644-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 17:41:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KNX expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/fb7e187c-1179-406b-a1bd-db0dc3933800</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/fb7e187c-1179-406b-a1bd-db0dc3933800'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb7e187c-1179-406b-a1bd-db0dc3933800-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 19:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $TTWO expiring 2022-08-12</title>
+      <link>https://thetagang.com/jrue/497c886c-0f5b-44ac-9d5c-c7ed9404d952</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/497c886c-0f5b-44ac-9d5c-c7ed9404d952'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">497c886c-0f5b-44ac-9d5c-c7ed9404d952-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 16:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $JBHT expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/f300eef6-7531-4900-998e-ccbc0ecc3049</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f300eef6-7531-4900-998e-ccbc0ecc3049'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f300eef6-7531-4900-998e-ccbc0ecc3049-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 19:10:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a put debit spread on $AAPL expiring 2022-08-19</title>
+      <link>https://thetagang.com/OmniTrio/7524b87e-82b1-4d62-a2a6-e042e225eb3c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/7524b87e-82b1-4d62-a2a6-e042e225eb3c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7524b87e-82b1-4d62-a2a6-e042e225eb3c-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 19:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $DHI expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/0bf2ddcf-e72f-4dbd-9eb7-496444d6efeb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0bf2ddcf-e72f-4dbd-9eb7-496444d6efeb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0bf2ddcf-e72f-4dbd-9eb7-496444d6efeb-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 19:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $CRM expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/71d4535e-9a0d-4dce-beab-bb459b5a04e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/71d4535e-9a0d-4dce-beab-bb459b5a04e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">71d4535e-9a0d-4dce-beab-bb459b5a04e8-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 19:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put debit spread on $TSLA expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/11636722-bd76-499e-af88-00e9a0a54e61</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/11636722-bd76-499e-af88-00e9a0a54e61'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">11636722-bd76-499e-af88-00e9a0a54e61-closing</guid>
+      <pubDate>Wed, 13 Jul 2022 19:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $NFLX expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/6a81217e-7494-447d-b219-d3b79de666e5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/6a81217e-7494-447d-b219-d3b79de666e5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a81217e-7494-447d-b219-d3b79de666e5-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 19:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $IYR expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/85871642-48b1-45ab-952b-3005ddda105a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/85871642-48b1-45ab-952b-3005ddda105a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">85871642-48b1-45ab-952b-3005ddda105a-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 17:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $XLU expiring 2022-08-05</title>
+      <link>https://thetagang.com/jrue/db7a8f35-172b-4920-851b-42a087c729e4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/db7a8f35-172b-4920-851b-42a087c729e4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">db7a8f35-172b-4920-851b-42a087c729e4-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 19:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a put debit spread on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/Krasberry/00c2ac51-eac3-4f3f-8b90-01afb4725cfb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/00c2ac51-eac3-4f3f-8b90-01afb4725cfb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">00c2ac51-eac3-4f3f-8b90-01afb4725cfb-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 20:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/9a356900-ec64-4493-91cb-5bb3e5eb1c19</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/9a356900-ec64-4493-91cb-5bb3e5eb1c19'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9a356900-ec64-4493-91cb-5bb3e5eb1c19-closing</guid>
+      <pubDate>Sat, 16 Jul 2022 05:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a put debit spread on $DG expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/953ac33d-592c-473b-a6ff-e65e17e94b99</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/953ac33d-592c-473b-a6ff-e65e17e94b99'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">953ac33d-592c-473b-a6ff-e65e17e94b99-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 05:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dragon_Lady_Violet opened a put debit spread on $SPX expiring 2022-07-28</title>
+      <link>https://thetagang.com/Dragon_Lady_Violet/b8431087-f59f-46d3-bd69-aa4938669ec0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dragon_Lady_Violet/b8431087-f59f-46d3-bd69-aa4938669ec0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b8431087-f59f-46d3-bd69-aa4938669ec0-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 16:18:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $META expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/9a3a5250-41a0-4927-a2e1-2a5a88d69d11</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9a3a5250-41a0-4927-a2e1-2a5a88d69d11'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9a3a5250-41a0-4927-a2e1-2a5a88d69d11-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 16:32:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $JBHT expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/016a6953-4466-4c5d-9563-8ff6384a3219</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/016a6953-4466-4c5d-9563-8ff6384a3219'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">016a6953-4466-4c5d-9563-8ff6384a3219-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 17:27:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $TSLA expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/f601c2ef-b0ae-451a-b924-bb41d5b88ad1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f601c2ef-b0ae-451a-b924-bb41d5b88ad1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f601c2ef-b0ae-451a-b924-bb41d5b88ad1-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 17:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $KR expiring 2022-08-26</title>
+      <link>https://thetagang.com/jrue/431544ef-ccf6-4380-889e-752143ddc82b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/431544ef-ccf6-4380-889e-752143ddc82b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">431544ef-ccf6-4380-889e-752143ddc82b-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $DFS expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/8da6684a-6a42-45e0-8bbe-9e82b4e66b47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8da6684a-6a42-45e0-8bbe-9e82b4e66b47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8da6684a-6a42-45e0-8bbe-9e82b4e66b47-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:52:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $IYR expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/929f03f7-fe1e-42fd-be12-ae33d188c408</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/929f03f7-fe1e-42fd-be12-ae33d188c408'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">929f03f7-fe1e-42fd-be12-ae33d188c408-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 18:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $XBI expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/2e91d50a-e4bb-4254-b83d-8b2b7901f261</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2e91d50a-e4bb-4254-b83d-8b2b7901f261'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e91d50a-e4bb-4254-b83d-8b2b7901f261-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 13:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $COF expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/58aef32b-76eb-4e19-8140-9f0e3ec7fc58</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/58aef32b-76eb-4e19-8140-9f0e3ec7fc58'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58aef32b-76eb-4e19-8140-9f0e3ec7fc58-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a put debit spread on $DHI expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/e3b72114-e268-4d74-93bc-ddf0b2e65049</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e3b72114-e268-4d74-93bc-ddf0b2e65049'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e3b72114-e268-4d74-93bc-ddf0b2e65049-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:22:16 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

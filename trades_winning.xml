@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Winning trades only</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Winning trades only</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $MSFT expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/40094689-f7ca-47ce-8646-51884b125773</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/40094689-f7ca-47ce-8646-51884b125773'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">40094689-f7ca-47ce-8646-51884b125773-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:08:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long naked call on $SPY expiring 2022-07-14</title>
+      <link>https://thetagang.com/Ninetoe/c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked put on $BABA expiring 2022-07-15</title>
+      <link>https://thetagang.com/mehmehmeh/6dc8d322-f872-4917-8a1c-56fca5f3d645</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/6dc8d322-f872-4917-8a1c-56fca5f3d645'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6dc8d322-f872-4917-8a1c-56fca5f3d645-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 schwisch closed a covered call on $PLUG expiring 2022-08-26</title>
+      <link>https://thetagang.com/schwisch/10220d9b-127b-46ca-9c44-d1595bc3521a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/schwisch/10220d9b-127b-46ca-9c44-d1595bc3521a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">10220d9b-127b-46ca-9c44-d1595bc3521a-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a cash secured put on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/9ca948b7-e40c-4dc4-983c-80cf5e5179cd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/9ca948b7-e40c-4dc4-983c-80cf5e5179cd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ca948b7-e40c-4dc4-983c-80cf5e5179cd-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a cash secured put on $U expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/ba20c5ed-0aee-4280-9f29-67ec2accb939</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/ba20c5ed-0aee-4280-9f29-67ec2accb939'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba20c5ed-0aee-4280-9f29-67ec2accb939-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a cash secured put on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/f3ad60b1-ac14-4014-aa62-2c2a67bbe8a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/f3ad60b1-ac14-4014-aa62-2c2a67bbe8a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3ad60b1-ac14-4014-aa62-2c2a67bbe8a8-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $FSR expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/84864df2-2625-4e34-82e7-526cd8fbeaea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/84864df2-2625-4e34-82e7-526cd8fbeaea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">84864df2-2625-4e34-82e7-526cd8fbeaea-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $FSR expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/847d7d29-9a01-447d-931c-9b61f0342a0c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/847d7d29-9a01-447d-931c-9b61f0342a0c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">847d7d29-9a01-447d-931c-9b61f0342a0c-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/bc212971-960e-483b-a3bc-196a9f2bd840</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/bc212971-960e-483b-a3bc-196a9f2bd840'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bc212971-960e-483b-a3bc-196a9f2bd840-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $FSR expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/c1357c2a-c9ad-4ce3-b0ee-173221103098</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/c1357c2a-c9ad-4ce3-b0ee-173221103098'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c1357c2a-c9ad-4ce3-b0ee-173221103098-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/9d43b17a-3d08-4316-96a1-a37ddbec35fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/9d43b17a-3d08-4316-96a1-a37ddbec35fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9d43b17a-3d08-4316-96a1-a37ddbec35fa-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/64304b26-64ad-4cea-b3e1-e9cf3adc1be6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/64304b26-64ad-4cea-b3e1-e9cf3adc1be6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">64304b26-64ad-4cea-b3e1-e9cf3adc1be6-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/9c39788d-9a14-4306-ae50-1c2e75c02d72</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/9c39788d-9a14-4306-ae50-1c2e75c02d72'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9c39788d-9a14-4306-ae50-1c2e75c02d72-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/ff6dcc03-8b1f-4998-9421-992c8f814475</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/ff6dcc03-8b1f-4998-9421-992c8f814475'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff6dcc03-8b1f-4998-9421-992c8f814475-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/ce37d155-4e4b-473a-9375-2650cc7ec2ae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/ce37d155-4e4b-473a-9375-2650cc7ec2ae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ce37d155-4e4b-473a-9375-2650cc7ec2ae-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/d19fec4d-5ce6-4ff1-8eec-6959e3dc104a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/d19fec4d-5ce6-4ff1-8eec-6959e3dc104a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d19fec4d-5ce6-4ff1-8eec-6959e3dc104a-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $FSR expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/11e674a3-6ddb-4beb-a2cf-d68569b30870</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/11e674a3-6ddb-4beb-a2cf-d68569b30870'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">11e674a3-6ddb-4beb-a2cf-d68569b30870-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 smartsalt closed a cash secured put on $F expiring 2022-07-29</title>
+      <link>https://thetagang.com/smartsalt/1d174e57-2ef5-4900-acd9-41d092c38a43</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smartsalt/1d174e57-2ef5-4900-acd9-41d092c38a43'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d174e57-2ef5-4900-acd9-41d092c38a43-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $TQQQ expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/911923f6-d6a8-4afd-9116-98abb41f9290</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/911923f6-d6a8-4afd-9116-98abb41f9290'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">911923f6-d6a8-4afd-9116-98abb41f9290-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $TQQQ expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/44669d1f-5e27-4e7f-9cbf-b676bfc20679</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/44669d1f-5e27-4e7f-9cbf-b676bfc20679'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">44669d1f-5e27-4e7f-9cbf-b676bfc20679-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $TQQQ expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/a4c6d383-06f1-4e60-95c9-7eb2f2fffb74</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/a4c6d383-06f1-4e60-95c9-7eb2f2fffb74'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a4c6d383-06f1-4e60-95c9-7eb2f2fffb74-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/1591c5e6-faa6-495d-9a44-1e46d624f659</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/1591c5e6-faa6-495d-9a44-1e46d624f659'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1591c5e6-faa6-495d-9a44-1e46d624f659-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/9e2e32cf-1186-418b-b407-1fd6f8362b98</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/9e2e32cf-1186-418b-b407-1fd6f8362b98'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9e2e32cf-1186-418b-b407-1fd6f8362b98-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a put credit spread on $QQQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/dom747/fc27fef2-3b99-4379-9852-063512e7ae0c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/fc27fef2-3b99-4379-9852-063512e7ae0c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fc27fef2-3b99-4379-9852-063512e7ae0c-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:38:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $TQQQ expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dobbyretire/f171091d-67c0-44f0-a0b8-243a86031f32</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/f171091d-67c0-44f0-a0b8-243a86031f32'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f171091d-67c0-44f0-a0b8-243a86031f32-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-08-18</title>
+      <link>https://thetagang.com/Dobbyretire/e03ab677-f211-4574-932a-c595791e4439</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/e03ab677-f211-4574-932a-c595791e4439'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e03ab677-f211-4574-932a-c595791e4439-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $TQQQ expiring 2022-08-18</title>
+      <link>https://thetagang.com/Dobbyretire/8eabb70f-1a76-4fec-94e6-32c2b760cd32</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/8eabb70f-1a76-4fec-94e6-32c2b760cd32'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8eabb70f-1a76-4fec-94e6-32c2b760cd32-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dobbyretire closed a covered call on $AMD expiring 2022-08-18</title>
+      <link>https://thetagang.com/Dobbyretire/94937507-439e-4dbd-9849-cec1d7d2e23d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dobbyretire/94937507-439e-4dbd-9849-cec1d7d2e23d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">94937507-439e-4dbd-9849-cec1d7d2e23d-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:41:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Krasberry closed a put credit spread on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/Krasberry/838345f8-97d7-46a5-a85a-6be2d85e27e2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/838345f8-97d7-46a5-a85a-6be2d85e27e2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">838345f8-97d7-46a5-a85a-6be2d85e27e2-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HeavyDD7 closed a long naked call on $SPY expiring 2022-07-29</title>
+      <link>https://thetagang.com/HeavyDD7/5efd8cbe-076c-48d4-b7dc-1fbad6b4c005</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HeavyDD7/5efd8cbe-076c-48d4-b7dc-1fbad6b4c005'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5efd8cbe-076c-48d4-b7dc-1fbad6b4c005-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $XND expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/91d1086c-1373-4d38-86b2-40e5d2652c0c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/91d1086c-1373-4d38-86b2-40e5d2652c0c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">91d1086c-1373-4d38-86b2-40e5d2652c0c-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 16:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $AMD expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/01c83114-7879-4d0c-9e41-2b14e48de662</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/01c83114-7879-4d0c-9e41-2b14e48de662'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">01c83114-7879-4d0c-9e41-2b14e48de662-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 17:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $AMZN (SEP) expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/23935cd4-e4be-4bb5-9520-8a9b49a48f72</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/23935cd4-e4be-4bb5-9520-8a9b49a48f72'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">23935cd4-e4be-4bb5-9520-8a9b49a48f72-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 17:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/HippoDan/9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 22:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 teclbitties closed a short naked call on $UPRO expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/1e2b9cfd-d71c-4872-9645-6a053595d23f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/1e2b9cfd-d71c-4872-9645-6a053595d23f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e2b9cfd-d71c-4872-9645-6a053595d23f-closing</guid>
+      <pubDate>Sat, 16 Jul 2022 03:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a put debit spread on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/9a356900-ec64-4493-91cb-5bb3e5eb1c19</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/9a356900-ec64-4493-91cb-5bb3e5eb1c19'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9a356900-ec64-4493-91cb-5bb3e5eb1c19-closing</guid>
+      <pubDate>Sat, 16 Jul 2022 05:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 marty1885 opened a cash secured put on $ET expiring 2022-07-21</title>
+      <link>https://thetagang.com/marty1885/f74450f6-397c-4ca4-864b-1e7ba238434b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/marty1885/f74450f6-397c-4ca4-864b-1e7ba238434b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f74450f6-397c-4ca4-864b-1e7ba238434b-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 06:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $FSLY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Stizzle/8bd855b5-3a3b-4187-be2d-13b0b29982f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/8bd855b5-3a3b-4187-be2d-13b0b29982f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8bd855b5-3a3b-4187-be2d-13b0b29982f3-closing</guid>
+      <pubDate>Sat, 16 Jul 2022 13:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a cash secured put on $ETH/USD expiring 2022-07-29</title>
+      <link>https://thetagang.com/jrue/fefd5c4e-dad9-4345-a974-f908ba9af6a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/fefd5c4e-dad9-4345-a974-f908ba9af6a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fefd5c4e-dad9-4345-a974-f908ba9af6a8-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 07:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $BABA expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/b2954c57-007a-4d14-a488-004126cbfa0e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/b2954c57-007a-4d14-a488-004126cbfa0e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b2954c57-007a-4d14-a488-004126cbfa0e-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 13:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Bwach16 closed a long naked call on $SOFI expiring 2022-07-22</title>
+      <link>https://thetagang.com/Bwach16/a952e25b-b637-4780-9e2f-b9e08b5999ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/a952e25b-b637-4780-9e2f-b9e08b5999ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a952e25b-b637-4780-9e2f-b9e08b5999ce-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 13:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 lbn_2111 closed a long naked put on $BA expiring 2022-07-22</title>
+      <link>https://thetagang.com/lbn_2111/64bd379b-fc53-46fe-a4cb-6c0716fa40df</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lbn_2111/64bd379b-fc53-46fe-a4cb-6c0716fa40df'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">64bd379b-fc53-46fe-a4cb-6c0716fa40df-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 15:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-18</title>
+      <link>https://thetagang.com/Redpill2020/b1096573-a87a-4c78-b65c-31601c42ef55</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/b1096573-a87a-4c78-b65c-31601c42ef55'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b1096573-a87a-4c78-b65c-31601c42ef55-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 15:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Mr_integrity closed a covered call on $AMD expiring 2022-07-29</title>
+      <link>https://thetagang.com/Mr_integrity/ba53c638-162c-4c43-aa17-4a2c38217a55</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/ba53c638-162c-4c43-aa17-4a2c38217a55'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba53c638-162c-4c43-aa17-4a2c38217a55-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 17:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a cash secured put on $PLTR expiring 2022-07-29</title>
+      <link>https://thetagang.com/njdeleon/3f84fa2c-6f6d-4753-b525-ac10c21dd3f9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/3f84fa2c-6f6d-4753-b525-ac10c21dd3f9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3f84fa2c-6f6d-4753-b525-ac10c21dd3f9-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 18:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long naked put on $SPY expiring 2022-07-19</title>
+      <link>https://thetagang.com/Ninetoe/b9ed32e7-649d-4ed7-b332-db529c61f5da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/b9ed32e7-649d-4ed7-b332-db529c61f5da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9ed32e7-649d-4ed7-b332-db529c61f5da-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 19:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $SQQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/cab45147-46a7-40c1-8c02-82be993613cf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/cab45147-46a7-40c1-8c02-82be993613cf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cab45147-46a7-40c1-8c02-82be993613cf-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 13:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a covered call on $GOOGL expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/c49d0441-7a34-4255-8311-50c78dc89f2e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/c49d0441-7a34-4255-8311-50c78dc89f2e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c49d0441-7a34-4255-8311-50c78dc89f2e-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 14:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a short iron condor on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/HippoDan/5d078c00-ee2b-427d-85f5-59f70b88f06a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/5d078c00-ee2b-427d-85f5-59f70b88f06a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d078c00-ee2b-427d-85f5-59f70b88f06a-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 14:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a put credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/HippoDan/dac2c932-f78b-419d-aad2-85e82a69b345</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/dac2c932-f78b-419d-aad2-85e82a69b345'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dac2c932-f78b-419d-aad2-85e82a69b345-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 14:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a put credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/HippoDan/c655719a-1faf-4ae9-b028-6533ac8ee453</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/c655719a-1faf-4ae9-b028-6533ac8ee453'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c655719a-1faf-4ae9-b028-6533ac8ee453-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 14:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/Redpill2020/71144e5a-379f-4b40-bb52-1da1b164730e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/71144e5a-379f-4b40-bb52-1da1b164730e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">71144e5a-379f-4b40-bb52-1da1b164730e-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 16:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 andypwndbunny2 opened a covered call on $SE expiring 2022-08-26</title>
+      <link>https://thetagang.com/andypwndbunny2/174f5d36-f510-4cd2-8cb8-a8a4597284b3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/andypwndbunny2/174f5d36-f510-4cd2-8cb8-a8a4597284b3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">174f5d36-f510-4cd2-8cb8-a8a4597284b3-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short iron condor on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/Reiku/d73edcdd-0311-442d-800c-785244bee0a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/d73edcdd-0311-442d-800c-785244bee0a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d73edcdd-0311-442d-800c-785244bee0a5-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 17:48:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short naked call on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Reiku/d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 17:58:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short naked call on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Reiku/905a9f38-1cfd-4dd0-b2e2-c10835c29c84</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/905a9f38-1cfd-4dd0-b2e2-c10835c29c84'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">905a9f38-1cfd-4dd0-b2e2-c10835c29c84-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 17:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 StanHalen opened a short naked call on $AMZN expiring 2022-07-22</title>
+      <link>https://thetagang.com/StanHalen/0aaa43f1-4b01-46e6-b913-62b84d94e922</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StanHalen/0aaa43f1-4b01-46e6-b913-62b84d94e922'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0aaa43f1-4b01-46e6-b913-62b84d94e922-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zesammy closed a cash secured put on $VICI expiring 2023-01-19</title>
+      <link>https://thetagang.com/zesammy/12fb6e94-2621-4916-b7e8-e71b794eb41e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zesammy/12fb6e94-2621-4916-b7e8-e71b794eb41e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">12fb6e94-2621-4916-b7e8-e71b794eb41e-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 19:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/Redpill2020/ef052c72-df09-422d-a837-6279d9e1afd4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/ef052c72-df09-422d-a837-6279d9e1afd4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef052c72-df09-422d-a837-6279d9e1afd4-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 19:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked put on $AMD expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/93cb5088-a273-4f25-94a8-8254a24fe62b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/93cb5088-a273-4f25-94a8-8254a24fe62b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">93cb5088-a273-4f25-94a8-8254a24fe62b-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 13:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $QQQ expiring 2022-07-20</title>
+      <link>https://thetagang.com/mehmehmeh/6544047d-d5c1-441c-b9b7-d8d98b4261e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/6544047d-d5c1-441c-b9b7-d8d98b4261e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6544047d-d5c1-441c-b9b7-d8d98b4261e8-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 13:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a cash secured put on $TQQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/Expresso_bean/c67b102d-1d46-4f06-b4b9-5033030c79f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/c67b102d-1d46-4f06-b4b9-5033030c79f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c67b102d-1d46-4f06-b4b9-5033030c79f0-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 14:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Krasberry closed a put credit spread on $TWTR expiring 2022-07-22</title>
+      <link>https://thetagang.com/Krasberry/3e7125c4-1edb-4a65-b8fb-4cde3dd1d351</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/3e7125c4-1edb-4a65-b8fb-4cde3dd1d351'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e7125c4-1edb-4a65-b8fb-4cde3dd1d351-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a put credit spread on $NFLX expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/58374bcd-f4dc-4228-8a2a-e627443a5b87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/58374bcd-f4dc-4228-8a2a-e627443a5b87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58374bcd-f4dc-4228-8a2a-e627443a5b87-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $GOOG (SEP) expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/3e81eb30-f003-415e-a14e-18d9bf8e5695</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3e81eb30-f003-415e-a14e-18d9bf8e5695'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e81eb30-f003-415e-a14e-18d9bf8e5695-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:35:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a cash secured put on $TWLO expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/509f23e5-52a4-4bcc-8042-b2010a90fbc4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/509f23e5-52a4-4bcc-8042-b2010a90fbc4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">509f23e5-52a4-4bcc-8042-b2010a90fbc4-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 19:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $GOOG expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/0e9744c7-b74b-42bc-9d03-eef3cbff82d4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/0e9744c7-b74b-42bc-9d03-eef3cbff82d4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e9744c7-b74b-42bc-9d03-eef3cbff82d4-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 19:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a cash secured put on $SHOP expiring 2022-08-12</title>
+      <link>https://thetagang.com/njdeleon/b9561e8a-07e3-4193-b0cb-270bd488677c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/b9561e8a-07e3-4193-b0cb-270bd488677c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9561e8a-07e3-4193-b0cb-270bd488677c-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 21:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a cash secured put on $SQ expiring 2022-08-12</title>
+      <link>https://thetagang.com/njdeleon/dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 21:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 cjg269 closed a short iron condor on $NFLX expiring 2022-07-22</title>
+      <link>https://thetagang.com/cjg269/b5374c69-3be9-4b43-a430-6bcb07299069</link>
+      <description>For more details, &lt;a href='https://thetagang.com/cjg269/b5374c69-3be9-4b43-a430-6bcb07299069'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b5374c69-3be9-4b43-a430-6bcb07299069-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 21:40:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jackey1984 closed a cash secured put on $QQQ expiring 2022-07-20</title>
+      <link>https://thetagang.com/jackey1984/3620f16b-6c3a-4df6-ae0c-7b0d411e01a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/3620f16b-6c3a-4df6-ae0c-7b0d411e01a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3620f16b-6c3a-4df6-ae0c-7b0d411e01a1-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 22:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a short iron condor on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/HippoDan/2a39f2cb-fa87-4bfa-89a4-165156da9fdc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/2a39f2cb-fa87-4bfa-89a4-165156da9fdc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2a39f2cb-fa87-4bfa-89a4-165156da9fdc-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 00:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a call credit spread on $SPX expiring 2022-07-20</title>
+      <link>https://thetagang.com/HippoDan/4f0a0388-fece-428b-8b9e-8ba6eb49ebcf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/4f0a0388-fece-428b-8b9e-8ba6eb49ebcf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4f0a0388-fece-428b-8b9e-8ba6eb49ebcf-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 00:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short strangle on $UAL expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/94f6a615-b488-4c2a-8d7d-45969292e0e5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/94f6a615-b488-4c2a-8d7d-45969292e0e5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">94f6a615-b488-4c2a-8d7d-45969292e0e5-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a covered call on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/959a947f-1594-4647-b2e9-9cb5ed995117</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/959a947f-1594-4647-b2e9-9cb5ed995117'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">959a947f-1594-4647-b2e9-9cb5ed995117-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 14:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jongkar opened a call credit spread on $TSLA expiring 2022-07-29</title>
+      <link>https://thetagang.com/Jongkar/57dc516c-2b89-40ba-80f3-f4515de0a3f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jongkar/57dc516c-2b89-40ba-80f3-f4515de0a3f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57dc516c-2b89-40ba-80f3-f4515de0a3f3-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Redpill2020/ef7eca40-d68e-4f6d-ac3b-f098a55053f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/ef7eca40-d68e-4f6d-ac3b-f098a55053f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef7eca40-d68e-4f6d-ac3b-f098a55053f2-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 15:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a cash secured put on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/dom747/154fe95e-af2d-46e2-be19-99c2841687a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/154fe95e-af2d-46e2-be19-99c2841687a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">154fe95e-af2d-46e2-be19-99c2841687a2-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 16:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TCB47 closed a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/TCB47/601bdd54-5432-4e7f-acda-4bccedb69fb8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/601bdd54-5432-4e7f-acda-4bccedb69fb8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">601bdd54-5432-4e7f-acda-4bccedb69fb8-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 18:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short iron condor on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Reiku/f0096b5f-33cc-4001-8a41-e1958220e701</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/f0096b5f-33cc-4001-8a41-e1958220e701'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f0096b5f-33cc-4001-8a41-e1958220e701-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 20:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short iron condor on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Reiku/861fc2da-e8b3-44b8-aae2-24dbcf7b2d27</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/861fc2da-e8b3-44b8-aae2-24dbcf7b2d27'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">861fc2da-e8b3-44b8-aae2-24dbcf7b2d27-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 20:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short iron condor on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Reiku/76f32283-5dd9-475b-964a-680675efd3b3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/76f32283-5dd9-475b-964a-680675efd3b3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">76f32283-5dd9-475b-964a-680675efd3b3-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 20:35:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a short iron condor on $SPX expiring 2022-07-22</title>
+      <link>https://thetagang.com/HippoDan/ac69fe5c-7d85-4367-940a-8d4d2b71bb2b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/ac69fe5c-7d85-4367-940a-8d4d2b71bb2b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac69fe5c-7d85-4367-940a-8d4d2b71bb2b-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 20:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bofie09 closed a cash secured put on $AMD expiring 2022-08-26</title>
+      <link>https://thetagang.com/bofie09/36da1cc5-fa7b-426b-ba73-10dd4feff7a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bofie09/36da1cc5-fa7b-426b-ba73-10dd4feff7a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36da1cc5-fa7b-426b-ba73-10dd4feff7a0-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 22:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jackey1984 closed a cash secured put on $TSLA expiring 2022-07-28</title>
+      <link>https://thetagang.com/jackey1984/52215345-d24e-4ce5-ae69-2edcfbe696fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/52215345-d24e-4ce5-ae69-2edcfbe696fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">52215345-d24e-4ce5-ae69-2edcfbe696fd-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 23:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bd_one closed a cash secured put on $NOK expiring 2022-07-22</title>
+      <link>https://thetagang.com/bd_one/fcdeb801-7d72-40e0-b9c2-c282ef5200a4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bd_one/fcdeb801-7d72-40e0-b9c2-c282ef5200a4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcdeb801-7d72-40e0-b9c2-c282ef5200a4-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 01:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jelle closed a cash secured put on $WBD expiring 2022-07-28</title>
+      <link>https://thetagang.com/jelle/787d099d-519f-4bd3-919d-fdb70a0af674</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/787d099d-519f-4bd3-919d-fdb70a0af674'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">787d099d-519f-4bd3-919d-fdb70a0af674-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:38:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 antimeta closed a call credit spread on $AMD expiring 2022-07-22</title>
+      <link>https://thetagang.com/antimeta/3e4412a4-a09b-4398-ad00-5f4db6a56e97</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/3e4412a4-a09b-4398-ad00-5f4db6a56e97'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e4412a4-a09b-4398-ad00-5f4db6a56e97-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jeremieb26 closed a long strangle on $SNAP expiring 2022-07-22</title>
+      <link>https://thetagang.com/jeremieb26/77ef44ee-3b36-4ff9-9c9c-83f96cfbcea3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jeremieb26/77ef44ee-3b36-4ff9-9c9c-83f96cfbcea3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">77ef44ee-3b36-4ff9-9c9c-83f96cfbcea3-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/ff2f5dce-1813-4ae7-afee-81e9d6dc83d2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/ff2f5dce-1813-4ae7-afee-81e9d6dc83d2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff2f5dce-1813-4ae7-afee-81e9d6dc83d2-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 manhphuho closed a cash secured put on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/manhphuho/6a147e29-0c89-429b-b51e-870874807a24</link>
+      <description>For more details, &lt;a href='https://thetagang.com/manhphuho/6a147e29-0c89-429b-b51e-870874807a24'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a147e29-0c89-429b-b51e-870874807a24-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked put on $NVDA expiring 2022-07-22</title>
+      <link>https://thetagang.com/j1a/c38c6782-fd6d-40a3-b80f-9a1c14d0edcf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/c38c6782-fd6d-40a3-b80f-9a1c14d0edcf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c38c6782-fd6d-40a3-b80f-9a1c14d0edcf-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 15:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked put on $NVDA expiring 2022-07-22</title>
+      <link>https://thetagang.com/j1a/2876b25c-84a0-4ce4-96fd-66504fc88464</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/2876b25c-84a0-4ce4-96fd-66504fc88464'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2876b25c-84a0-4ce4-96fd-66504fc88464-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 15:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 deadwoodluke opened a cash secured put on $BBBY expiring 2022-08-19</title>
+      <link>https://thetagang.com/deadwoodluke/80512b41-589b-4ea2-b88c-1d9c716b97e0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/deadwoodluke/80512b41-589b-4ea2-b88c-1d9c716b97e0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">80512b41-589b-4ea2-b88c-1d9c716b97e0-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a covered call on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/484cb06c-1df9-48ef-b75f-fc558a57a452</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/484cb06c-1df9-48ef-b75f-fc558a57a452'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">484cb06c-1df9-48ef-b75f-fc558a57a452-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 15:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Smoothbrain69 closed a covered call on $GME expiring 2022-07-22</title>
+      <link>https://thetagang.com/Smoothbrain69/a70443e8-a1de-4f23-9329-fc5e69b33384</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/a70443e8-a1de-4f23-9329-fc5e69b33384'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a70443e8-a1de-4f23-9329-fc5e69b33384-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 17:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Smoothbrain69 closed a cash secured put on $GME expiring 2022-07-22</title>
+      <link>https://thetagang.com/Smoothbrain69/8f72eece-5f0a-4566-a5a7-e65cfa5b3df4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/8f72eece-5f0a-4566-a5a7-e65cfa5b3df4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f72eece-5f0a-4566-a5a7-e65cfa5b3df4-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 18:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Smoothbrain69 closed a covered call on $BBBY expiring 2022-07-29</title>
+      <link>https://thetagang.com/Smoothbrain69/ddfaf264-fda8-46a1-ab2b-51d13169a4e6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/ddfaf264-fda8-46a1-ab2b-51d13169a4e6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ddfaf264-fda8-46a1-ab2b-51d13169a4e6-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 18:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alex609 closed a cash secured put on $BITO expiring 2022-08-12</title>
+      <link>https://thetagang.com/alex609/d06b99e6-638a-425e-b07c-ae50a586ec58</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/d06b99e6-638a-425e-b07c-ae50a586ec58'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d06b99e6-638a-425e-b07c-ae50a586ec58-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 20:03:27 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

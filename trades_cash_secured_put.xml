@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only cash secured put trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only cash secured put trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 pauzerock opened a cash secured put on $IBM expiring 2022-07-22</title>
+      <link>https://thetagang.com/pauzerock/b59c183c-0e12-439c-a28b-3ecccf2618e1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pauzerock/b59c183c-0e12-439c-a28b-3ecccf2618e1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b59c183c-0e12-439c-a28b-3ecccf2618e1-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 20:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bd_one opened a cash secured put on $NOK expiring 2022-07-22</title>
+      <link>https://thetagang.com/bd_one/b7374794-5e0d-4a90-a811-259ca7aa5885</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bd_one/b7374794-5e0d-4a90-a811-259ca7aa5885'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b7374794-5e0d-4a90-a811-259ca7aa5885-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 01:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 alex609 opened a cash secured put on $BITO expiring 2022-07-22</title>
+      <link>https://thetagang.com/alex609/6a7d3bfa-6f82-4f24-947c-1899fe5fa792</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/6a7d3bfa-6f82-4f24-947c-1899fe5fa792'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a7d3bfa-6f82-4f24-947c-1899fe5fa792-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 03:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 marty1885 opened a cash secured put on $PLTR expiring 2022-07-21</title>
+      <link>https://thetagang.com/marty1885/b2da5c10-f9a8-440d-bda5-72b72ce55c5b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/marty1885/b2da5c10-f9a8-440d-bda5-72b72ce55c5b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b2da5c10-f9a8-440d-bda5-72b72ce55c5b-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 13:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Zdweinberg opened a cash secured put on $SPY expiring 2022-08-19</title>
+      <link>https://thetagang.com/Zdweinberg/69cf20bb-4296-4872-8523-d93ced2cf993</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Zdweinberg/69cf20bb-4296-4872-8523-d93ced2cf993'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">69cf20bb-4296-4872-8523-d93ced2cf993-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 13:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 manhphuho opened a cash secured put on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/manhphuho/9bf06e81-ed2c-4b60-bebe-45521e0e828e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/manhphuho/9bf06e81-ed2c-4b60-bebe-45521e0e828e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9bf06e81-ed2c-4b60-bebe-45521e0e828e-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 14:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 banadushi opened a cash secured put on $NET expiring 2022-07-22</title>
+      <link>https://thetagang.com/banadushi/d2ba74f7-28cd-4207-ab38-b1229baf2c17</link>
+      <description>For more details, &lt;a href='https://thetagang.com/banadushi/d2ba74f7-28cd-4207-ab38-b1229baf2c17'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2ba74f7-28cd-4207-ab38-b1229baf2c17-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 14:18:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 KevBot opened a cash secured put on $RIOT expiring 2022-08-19</title>
+      <link>https://thetagang.com/KevBot/49113e0d-d796-453b-989d-1200b7231453</link>
+      <description>For more details, &lt;a href='https://thetagang.com/KevBot/49113e0d-d796-453b-989d-1200b7231453'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">49113e0d-d796-453b-989d-1200b7231453-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 15:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Teddy_Tank opened a cash secured put on $BRCC expiring 2022-08-05</title>
+      <link>https://thetagang.com/Teddy_Tank/3759660f-9f85-408a-8b9e-75f653b4c7a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Teddy_Tank/3759660f-9f85-408a-8b9e-75f653b4c7a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3759660f-9f85-408a-8b9e-75f653b4c7a5-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 15:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a cash secured put on $/MNQ expiring 2022-08-12</title>
+      <link>https://thetagang.com/jrue/ca0ef353-140f-46be-be8d-e1d3d10adb9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ca0ef353-140f-46be-be8d-e1d3d10adb9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ca0ef353-140f-46be-be8d-e1d3d10adb9d-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 15:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a cash secured put on $/MES expiring 2022-09-16</title>
+      <link>https://thetagang.com/jrue/c81ddf5f-4522-465e-9d0d-5977e82d1df8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c81ddf5f-4522-465e-9d0d-5977e82d1df8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c81ddf5f-4522-465e-9d0d-5977e82d1df8-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a cash secured put on $/SFX expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/548d3b6a-8571-475e-81ac-695124f55324</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/548d3b6a-8571-475e-81ac-695124f55324'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">548d3b6a-8571-475e-81ac-695124f55324-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Serrano opened a cash secured put on $F expiring 2022-08-19</title>
+      <link>https://thetagang.com/Serrano/2340e1ee-ec99-478c-9763-aad4a6e8e9c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Serrano/2340e1ee-ec99-478c-9763-aad4a6e8e9c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2340e1ee-ec99-478c-9763-aad4a6e8e9c5-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a cash secured put on $UAL expiring 2022-07-22</title>
+      <link>https://thetagang.com/ARFFman/54f4c3e9-798e-4075-bc33-fb0649d3c0a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/54f4c3e9-798e-4075-bc33-fb0649d3c0a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">54f4c3e9-798e-4075-bc33-fb0649d3c0a0-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Blazetrader opened a cash secured put on $AMD expiring 2022-08-25</title>
+      <link>https://thetagang.com/Blazetrader/774e369b-c3e5-46cb-8b61-50eff3867737</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Blazetrader/774e369b-c3e5-46cb-8b61-50eff3867737'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">774e369b-c3e5-46cb-8b61-50eff3867737-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smartsalt opened a cash secured put on $F expiring 2022-07-29</title>
+      <link>https://thetagang.com/smartsalt/7b4f7bda-69c4-45d7-a501-98573ad8753e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smartsalt/7b4f7bda-69c4-45d7-a501-98573ad8753e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7b4f7bda-69c4-45d7-a501-98573ad8753e-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 cjg269 opened a cash secured put on $FFIE expiring 2022-07-29</title>
+      <link>https://thetagang.com/cjg269/07aaa23c-e917-4512-92e2-10c55a93d03f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/cjg269/07aaa23c-e917-4512-92e2-10c55a93d03f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">07aaa23c-e917-4512-92e2-10c55a93d03f-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 17:53:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alex609 closed a cash secured put on $BITO expiring 2022-08-12</title>
+      <link>https://thetagang.com/alex609/9dc03c22-95bb-4c1e-b651-e71d5670067b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/9dc03c22-95bb-4c1e-b651-e71d5670067b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9dc03c22-95bb-4c1e-b651-e71d5670067b-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 19:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 cjg269 opened a cash secured put on $BBBY expiring 2022-08-26</title>
+      <link>https://thetagang.com/cjg269/8dbf126b-2132-48ee-87d0-13966ae27b2b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/cjg269/8dbf126b-2132-48ee-87d0-13966ae27b2b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8dbf126b-2132-48ee-87d0-13966ae27b2b-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 alex609 opened a cash secured put on $BITO expiring 2022-08-12</title>
+      <link>https://thetagang.com/alex609/28024936-ecbf-4af5-859f-85b4c8e7b965</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/28024936-ecbf-4af5-859f-85b4c8e7b965'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">28024936-ecbf-4af5-859f-85b4c8e7b965-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a cash secured put on $ZIM expiring 2022-08-25</title>
+      <link>https://thetagang.com/Akane/ee89a59d-e04e-4e4a-a093-dd4c143a3a29</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/ee89a59d-e04e-4e4a-a093-dd4c143a3a29'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ee89a59d-e04e-4e4a-a093-dd4c143a3a29-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Yohoho opened a cash secured put on $LABU expiring 2022-07-29</title>
+      <link>https://thetagang.com/Yohoho/33efebdc-f2f3-470b-bddd-a489a35f368c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Yohoho/33efebdc-f2f3-470b-bddd-a489a35f368c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">33efebdc-f2f3-470b-bddd-a489a35f368c-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 zesammy closed a cash secured put on $VICI expiring 2023-01-19</title>
+      <link>https://thetagang.com/zesammy/12fb6e94-2621-4916-b7e8-e71b794eb41e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zesammy/12fb6e94-2621-4916-b7e8-e71b794eb41e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">12fb6e94-2621-4916-b7e8-e71b794eb41e-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 19:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 schwisch opened a cash secured put on $M expiring 2022-08-19</title>
+      <link>https://thetagang.com/schwisch/7611140d-a8ae-4812-9b4b-a0c225268fdb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/schwisch/7611140d-a8ae-4812-9b4b-a0c225268fdb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7611140d-a8ae-4812-9b4b-a0c225268fdb-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $SPY expiring 2022-07-25</title>
+      <link>https://thetagang.com/zont/3405d7ed-2e25-45dd-9b37-a8081d5270ca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/3405d7ed-2e25-45dd-9b37-a8081d5270ca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3405d7ed-2e25-45dd-9b37-a8081d5270ca-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 22:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 0x2a opened a cash secured put on $PLTR expiring 2022-07-29</title>
+      <link>https://thetagang.com/0x2a/be6d633a-fee4-4dbc-9d7b-65ce7ce98ff0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/0x2a/be6d633a-fee4-4dbc-9d7b-65ce7ce98ff0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">be6d633a-fee4-4dbc-9d7b-65ce7ce98ff0-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 14:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $GOOG expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/8da8eac8-f63d-46d9-b833-c992e15a182c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/8da8eac8-f63d-46d9-b833-c992e15a182c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8da8eac8-f63d-46d9-b833-c992e15a182c-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 14:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ThetaGangTrainee opened a cash secured put on $RKT expiring 2022-08-12</title>
+      <link>https://thetagang.com/ThetaGangTrainee/fd07a290-768d-49fe-b196-17dca2993409</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ThetaGangTrainee/fd07a290-768d-49fe-b196-17dca2993409'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd07a290-768d-49fe-b196-17dca2993409-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 14:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smartsalt opened a cash secured put on $PLTR expiring 2022-08-12</title>
+      <link>https://thetagang.com/smartsalt/6bcb12a4-504a-44d5-bfd6-b729214b08e0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smartsalt/6bcb12a4-504a-44d5-bfd6-b729214b08e0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6bcb12a4-504a-44d5-bfd6-b729214b08e0-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 14:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a cash secured put on $TQQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/Expresso_bean/c67b102d-1d46-4f06-b4b9-5033030c79f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/c67b102d-1d46-4f06-b4b9-5033030c79f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c67b102d-1d46-4f06-b4b9-5033030c79f0-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 14:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a cash secured put on $/MNQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/690d3fad-e18d-45cd-8932-f53c5df15c31</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/690d3fad-e18d-45cd-8932-f53c5df15c31'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">690d3fad-e18d-45cd-8932-f53c5df15c31-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 16:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ekrow opened a cash secured put on $SPY expiring 2022-10-20</title>
+      <link>https://thetagang.com/ekrow/8912f3dd-c769-4068-a390-dc9157798f82</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ekrow/8912f3dd-c769-4068-a390-dc9157798f82'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8912f3dd-c769-4068-a390-dc9157798f82-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 16:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Stizzle closed a cash secured put on $GOOG (SEP) expiring 2022-07-22</title>
+      <link>https://thetagang.com/Stizzle/3e81eb30-f003-415e-a14e-18d9bf8e5695</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/3e81eb30-f003-415e-a14e-18d9bf8e5695'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e81eb30-f003-415e-a14e-18d9bf8e5695-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:35:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 palantiran opened a cash secured put on $PLTR expiring 2022-09-16</title>
+      <link>https://thetagang.com/palantiran/9fd44871-38ce-4c68-b387-4989e4f59a12</link>
+      <description>For more details, &lt;a href='https://thetagang.com/palantiran/9fd44871-38ce-4c68-b387-4989e4f59a12'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9fd44871-38ce-4c68-b387-4989e4f59a12-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 16:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a cash secured put on $LQDA expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/a3a532ec-2f7d-4f00-b9d1-9115d0c66041</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/a3a532ec-2f7d-4f00-b9d1-9115d0c66041'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a3a532ec-2f7d-4f00-b9d1-9115d0c66041-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 16:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 wallapuctus opened a cash secured put on $SOFI expiring 2022-08-05</title>
+      <link>https://thetagang.com/wallapuctus/7dfcfb96-1c0d-4e83-b595-d68846168973</link>
+      <description>For more details, &lt;a href='https://thetagang.com/wallapuctus/7dfcfb96-1c0d-4e83-b595-d68846168973'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7dfcfb96-1c0d-4e83-b595-d68846168973-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 16:52:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a cash secured put on $COIN expiring 2022-08-19</title>
+      <link>https://thetagang.com/randman70/9460c8b3-d27f-4896-953c-fdfdb718701f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/9460c8b3-d27f-4896-953c-fdfdb718701f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9460c8b3-d27f-4896-953c-fdfdb718701f-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 18:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a cash secured put on $COIN expiring 2022-08-19</title>
+      <link>https://thetagang.com/dalben/8dce9b55-f49e-4a07-ae65-a13103b0909e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/8dce9b55-f49e-4a07-ae65-a13103b0909e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8dce9b55-f49e-4a07-ae65-a13103b0909e-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 19:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a cash secured put on $AAPL expiring 2022-07-29</title>
+      <link>https://thetagang.com/yueyanglu319/26f9dbec-b2b2-4ae1-a7fb-a0e1936696d2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/26f9dbec-b2b2-4ae1-a7fb-a0e1936696d2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">26f9dbec-b2b2-4ae1-a7fb-a0e1936696d2-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 19:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a cash secured put on $TWLO expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/509f23e5-52a4-4bcc-8042-b2010a90fbc4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/509f23e5-52a4-4bcc-8042-b2010a90fbc4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">509f23e5-52a4-4bcc-8042-b2010a90fbc4-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 19:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a cash secured put on $SHOP expiring 2022-08-12</title>
+      <link>https://thetagang.com/njdeleon/b9561e8a-07e3-4193-b0cb-270bd488677c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/b9561e8a-07e3-4193-b0cb-270bd488677c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9561e8a-07e3-4193-b0cb-270bd488677c-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 21:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a cash secured put on $SQ expiring 2022-08-12</title>
+      <link>https://thetagang.com/njdeleon/dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc50e8f1-ca2d-4f20-bd31-8d78e6fd567d-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 21:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jackey1984 closed a cash secured put on $QQQ expiring 2022-07-20</title>
+      <link>https://thetagang.com/jackey1984/3620f16b-6c3a-4df6-ae0c-7b0d411e01a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/3620f16b-6c3a-4df6-ae0c-7b0d411e01a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3620f16b-6c3a-4df6-ae0c-7b0d411e01a1-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 22:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jelle opened a cash secured put on $CCL expiring 2022-08-18</title>
+      <link>https://thetagang.com/jelle/0bab05ce-89f3-4fec-8b93-0a4e0880b101</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/0bab05ce-89f3-4fec-8b93-0a4e0880b101'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0bab05ce-89f3-4fec-8b93-0a4e0880b101-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 marty1885 opened a cash secured put on $PLTR expiring 2022-07-28</title>
+      <link>https://thetagang.com/marty1885/5d89d493-680e-4abe-a140-a5d5ba1590c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/marty1885/5d89d493-680e-4abe-a140-a5d5ba1590c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d89d493-680e-4abe-a140-a5d5ba1590c5-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:33:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jelle opened a cash secured put on $AAL expiring 2022-08-18</title>
+      <link>https://thetagang.com/jelle/99901407-c4c2-42ac-a7fe-10dfa23b368b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/99901407-c4c2-42ac-a7fe-10dfa23b368b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">99901407-c4c2-42ac-a7fe-10dfa23b368b-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 15:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ComradeThechen opened a cash secured put on $LUMN expiring 2022-08-04</title>
+      <link>https://thetagang.com/ComradeThechen/61175cdd-2821-4d3b-9ce0-7db22de8f343</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ComradeThechen/61175cdd-2821-4d3b-9ce0-7db22de8f343'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">61175cdd-2821-4d3b-9ce0-7db22de8f343-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:02:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a cash secured put on $AAPL expiring 2022-07-29</title>
+      <link>https://thetagang.com/yueyanglu319/96b98fdd-e64e-4cc3-b8d4-a3c6c3a81617</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/96b98fdd-e64e-4cc3-b8d4-a3c6c3a81617'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">96b98fdd-e64e-4cc3-b8d4-a3c6c3a81617-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:06:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a cash secured put on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/dom747/154fe95e-af2d-46e2-be19-99c2841687a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/154fe95e-af2d-46e2-be19-99c2841687a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">154fe95e-af2d-46e2-be19-99c2841687a2-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 16:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a cash secured put on $/MNQ expiring 2022-08-31</title>
+      <link>https://thetagang.com/jrue/6ec03aad-9e58-4268-a4be-158062aaeb7c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/6ec03aad-9e58-4268-a4be-158062aaeb7c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6ec03aad-9e58-4268-a4be-158062aaeb7c-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a cash secured put on $NIO expiring 2022-07-29</title>
+      <link>https://thetagang.com/Stizzle/2743fa6b-c064-4493-9116-47666fc46223</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/2743fa6b-c064-4493-9116-47666fc46223'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2743fa6b-c064-4493-9116-47666fc46223-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 19:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ekrow opened a cash secured put on $SPY expiring 2022-10-20</title>
+      <link>https://thetagang.com/ekrow/9dc48e11-f030-40f6-a45e-aadff1cefd64</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ekrow/9dc48e11-f030-40f6-a45e-aadff1cefd64'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9dc48e11-f030-40f6-a45e-aadff1cefd64-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 20:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bofie09 closed a cash secured put on $AMD expiring 2022-08-26</title>
+      <link>https://thetagang.com/bofie09/36da1cc5-fa7b-426b-ba73-10dd4feff7a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bofie09/36da1cc5-fa7b-426b-ba73-10dd4feff7a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36da1cc5-fa7b-426b-ba73-10dd4feff7a0-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 22:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 0x2a opened a cash secured put on $PLTR expiring 2022-08-05</title>
+      <link>https://thetagang.com/0x2a/f9085266-fb81-4e6f-baf1-114956aff6fb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/0x2a/f9085266-fb81-4e6f-baf1-114956aff6fb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f9085266-fb81-4e6f-baf1-114956aff6fb-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 22:58:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bofie09 opened a cash secured put on $AMD expiring 2022-08-26</title>
+      <link>https://thetagang.com/bofie09/0bed179d-4c72-4708-8a62-bcd958508ba6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bofie09/0bed179d-4c72-4708-8a62-bcd958508ba6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0bed179d-4c72-4708-8a62-bcd958508ba6-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bofie09 opened a cash secured put on $FORD expiring 2022-09-02</title>
+      <link>https://thetagang.com/bofie09/b430ff51-4c49-436a-9d80-c3c828ac0afd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bofie09/b430ff51-4c49-436a-9d80-c3c828ac0afd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b430ff51-4c49-436a-9d80-c3c828ac0afd-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $AMD expiring 2022-08-05</title>
+      <link>https://thetagang.com/zont/d68a8de6-7c4c-4a2a-be6f-0571ed36a37a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/d68a8de6-7c4c-4a2a-be6f-0571ed36a37a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d68a8de6-7c4c-4a2a-be6f-0571ed36a37a-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $SPY expiring 2022-07-27</title>
+      <link>https://thetagang.com/zont/6a2a7774-b032-4c05-b5fb-d6a5706b438a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/6a2a7774-b032-4c05-b5fb-d6a5706b438a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a2a7774-b032-4c05-b5fb-d6a5706b438a-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $QQQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/zont/956b9b84-5dc8-4df4-9b87-e31ca05cc3ad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/956b9b84-5dc8-4df4-9b87-e31ca05cc3ad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">956b9b84-5dc8-4df4-9b87-e31ca05cc3ad-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $QQQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/zont/4c3a7da8-7cc9-41f8-b8bd-b8b4743580fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/4c3a7da8-7cc9-41f8-b8bd-b8b4743580fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4c3a7da8-7cc9-41f8-b8bd-b8b4743580fa-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 23:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jackey1984 closed a cash secured put on $TSLA expiring 2022-07-28</title>
+      <link>https://thetagang.com/jackey1984/52215345-d24e-4ce5-ae69-2edcfbe696fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/52215345-d24e-4ce5-ae69-2edcfbe696fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">52215345-d24e-4ce5-ae69-2edcfbe696fd-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 23:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eclectictaste opened a cash secured put on $GME expiring 2022-07-29</title>
+      <link>https://thetagang.com/eclectictaste/48b781ad-ff57-45ae-a49b-7b66ab54bbae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eclectictaste/48b781ad-ff57-45ae-a49b-7b66ab54bbae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">48b781ad-ff57-45ae-a49b-7b66ab54bbae-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 00:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 bd_one closed a cash secured put on $NOK expiring 2022-07-22</title>
+      <link>https://thetagang.com/bd_one/fcdeb801-7d72-40e0-b9c2-c282ef5200a4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bd_one/fcdeb801-7d72-40e0-b9c2-c282ef5200a4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcdeb801-7d72-40e0-b9c2-c282ef5200a4-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 01:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bd_one opened a cash secured put on $AMC expiring 2022-08-12</title>
+      <link>https://thetagang.com/bd_one/1dfa19b2-374d-49b0-a8ad-ca6dffa0664f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bd_one/1dfa19b2-374d-49b0-a8ad-ca6dffa0664f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1dfa19b2-374d-49b0-a8ad-ca6dffa0664f-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 01:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a cash secured put on $SOXL expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/a1957ac5-7cc5-45a7-a663-e87c44bc450f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/a1957ac5-7cc5-45a7-a663-e87c44bc450f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1957ac5-7cc5-45a7-a663-e87c44bc450f-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a cash secured put on $TQQQ expiring 2022-09-16</title>
+      <link>https://thetagang.com/teclbitties/ff6f637c-5aed-4013-9c76-99b2b52b87c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/ff6f637c-5aed-4013-9c76-99b2b52b87c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff6f637c-5aed-4013-9c76-99b2b52b87c2-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jelle closed a cash secured put on $WBD expiring 2022-07-28</title>
+      <link>https://thetagang.com/jelle/787d099d-519f-4bd3-919d-fdb70a0af674</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/787d099d-519f-4bd3-919d-fdb70a0af674'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">787d099d-519f-4bd3-919d-fdb70a0af674-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:38:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a cash secured put on $TNA expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/2d45381c-8b80-441f-88cd-df97fbce1e2f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/2d45381c-8b80-441f-88cd-df97fbce1e2f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2d45381c-8b80-441f-88cd-df97fbce1e2f-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jelle opened a cash secured put on $SOXL expiring 2022-08-18</title>
+      <link>https://thetagang.com/jelle/07c3baf1-af18-4bba-a275-6e892e8b27ca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/07c3baf1-af18-4bba-a275-6e892e8b27ca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">07c3baf1-af18-4bba-a275-6e892e8b27ca-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 manhphuho closed a cash secured put on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/manhphuho/6a147e29-0c89-429b-b51e-870874807a24</link>
+      <description>For more details, &lt;a href='https://thetagang.com/manhphuho/6a147e29-0c89-429b-b51e-870874807a24'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a147e29-0c89-429b-b51e-870874807a24-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jelle opened a cash secured put on $SNAP expiring 2022-08-18</title>
+      <link>https://thetagang.com/jelle/9fdd96fe-0259-4f11-83c1-b442e92e513d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jelle/9fdd96fe-0259-4f11-83c1-b442e92e513d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9fdd96fe-0259-4f11-83c1-b442e92e513d-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 maxhagicostas1 opened a cash secured put on $TSLA expiring 2022-07-28</title>
+      <link>https://thetagang.com/maxhagicostas1/ac709df2-9da8-428a-b764-ee5b0ed7276f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maxhagicostas1/ac709df2-9da8-428a-b764-ee5b0ed7276f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac709df2-9da8-428a-b764-ee5b0ed7276f-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 14:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nickels opened a cash secured put on $GME expiring 2022-07-28</title>
+      <link>https://thetagang.com/Nickels/dad68e11-0472-431d-81f4-6b20f57523f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nickels/dad68e11-0472-431d-81f4-6b20f57523f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dad68e11-0472-431d-81f4-6b20f57523f7-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 14:18:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aedanto opened a cash secured put on $VZ expiring 2022-08-19</title>
+      <link>https://thetagang.com/aedanto/95e75e4b-9979-4d02-8904-364ee4033522</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aedanto/95e75e4b-9979-4d02-8904-364ee4033522'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">95e75e4b-9979-4d02-8904-364ee4033522-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 14:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a cash secured put on $SOFI expiring 2022-08-19</title>
+      <link>https://thetagang.com/Bwach16/ce147dc6-d0f9-4652-90b2-b31ccd640e9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/ce147dc6-d0f9-4652-90b2-b31ccd640e9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ce147dc6-d0f9-4652-90b2-b31ccd640e9a-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a cash secured put on $NEGG expiring 2022-07-29</title>
+      <link>https://thetagang.com/antimeta/1be26b8f-830f-498d-8d98-63425f4a924c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/1be26b8f-830f-498d-8d98-63425f4a924c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1be26b8f-830f-498d-8d98-63425f4a924c-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a cash secured put on $SOFI expiring 2022-08-05</title>
+      <link>https://thetagang.com/Bwach16/87a918e9-270c-4cfe-8a9c-4f2f7921156a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/87a918e9-270c-4cfe-8a9c-4f2f7921156a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87a918e9-270c-4cfe-8a9c-4f2f7921156a-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:23:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Expresso_bean opened a cash secured put on $SPXL expiring 2022-08-19</title>
+      <link>https://thetagang.com/Expresso_bean/7d476c82-30c1-461d-887c-0d8508ff5082</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/7d476c82-30c1-461d-887c-0d8508ff5082'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d476c82-30c1-461d-887c-0d8508ff5082-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 deadwoodluke opened a cash secured put on $GPRO expiring 2022-08-19</title>
+      <link>https://thetagang.com/deadwoodluke/1d1a8f91-1d1e-426c-baca-e668e6e5dfe5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/deadwoodluke/1d1a8f91-1d1e-426c-baca-e668e6e5dfe5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d1a8f91-1d1e-426c-baca-e668e6e5dfe5-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ComradeThechen opened a cash secured put on $GME expiring 2022-09-15</title>
+      <link>https://thetagang.com/ComradeThechen/14551424-bf2d-4647-a19d-3309a6a38ba3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ComradeThechen/14551424-bf2d-4647-a19d-3309a6a38ba3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">14551424-bf2d-4647-a19d-3309a6a38ba3-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 deadwoodluke opened a cash secured put on $BBBY expiring 2022-08-19</title>
+      <link>https://thetagang.com/deadwoodluke/80512b41-589b-4ea2-b88c-1d9c716b97e0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/deadwoodluke/80512b41-589b-4ea2-b88c-1d9c716b97e0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">80512b41-589b-4ea2-b88c-1d9c716b97e0-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a cash secured put on $IBM expiring 2022-08-12</title>
+      <link>https://thetagang.com/leogriv/3a8a445f-5e47-4e6d-b8d0-3a6ba0ff92ee</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/3a8a445f-5e47-4e6d-b8d0-3a6ba0ff92ee'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3a8a445f-5e47-4e6d-b8d0-3a6ba0ff92ee-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Stizzle opened a cash secured put on $GOOG (SEP) expiring 2022-07-29</title>
+      <link>https://thetagang.com/Stizzle/d2493aa1-ac7d-4977-ac52-268717327624</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Stizzle/d2493aa1-ac7d-4977-ac52-268717327624'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2493aa1-ac7d-4977-ac52-268717327624-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a cash secured put on $TNA expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/8738cb66-4983-4240-9f94-4a3af166e946</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/8738cb66-4983-4240-9f94-4a3af166e946'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8738cb66-4983-4240-9f94-4a3af166e946-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 16:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 masterbob closed a cash secured put on $CCL expiring 2022-08-19</title>
+      <link>https://thetagang.com/masterbob/b652ddf0-5e42-47fc-9344-bc5085c10cf0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/masterbob/b652ddf0-5e42-47fc-9344-bc5085c10cf0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b652ddf0-5e42-47fc-9344-bc5085c10cf0-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 16:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a cash secured put on $UPRO expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/22604a01-7b0a-4cbd-8324-4d6ed9cd8df1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/22604a01-7b0a-4cbd-8324-4d6ed9cd8df1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">22604a01-7b0a-4cbd-8324-4d6ed9cd8df1-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 16:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 masterbob opened a cash secured put on $CCL expiring 2022-08-19</title>
+      <link>https://thetagang.com/masterbob/6df917ca-5ffc-4f46-9374-207eb6b0cbf6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/masterbob/6df917ca-5ffc-4f46-9374-207eb6b0cbf6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6df917ca-5ffc-4f46-9374-207eb6b0cbf6-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 16:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 cadmi opened a cash secured put on $JETS expiring 2022-07-29</title>
+      <link>https://thetagang.com/cadmi/3f9ae671-3f2e-4f86-8f91-d2cc3c959dfd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/cadmi/3f9ae671-3f2e-4f86-8f91-d2cc3c959dfd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3f9ae671-3f2e-4f86-8f91-d2cc3c959dfd-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a cash secured put on $SOFI expiring 2022-08-12</title>
+      <link>https://thetagang.com/Bwach16/58a79d41-0b0a-4697-a597-75986d4e32a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/58a79d41-0b0a-4697-a597-75986d4e32a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">58a79d41-0b0a-4697-a597-75986d4e32a2-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 desertsherpa opened a cash secured put on $F expiring 2022-08-05</title>
+      <link>https://thetagang.com/desertsherpa/c9e0c76e-f329-43ee-9ed0-582f0d465033</link>
+      <description>For more details, &lt;a href='https://thetagang.com/desertsherpa/c9e0c76e-f329-43ee-9ed0-582f0d465033'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c9e0c76e-f329-43ee-9ed0-582f0d465033-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aedanto opened a cash secured put on $VZ expiring 2022-08-19</title>
+      <link>https://thetagang.com/aedanto/54515b34-f9b1-43cf-b000-e1e43dd80d68</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aedanto/54515b34-f9b1-43cf-b000-e1e43dd80d68'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">54515b34-f9b1-43cf-b000-e1e43dd80d68-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Smoothbrain69 closed a cash secured put on $GME expiring 2022-07-22</title>
+      <link>https://thetagang.com/Smoothbrain69/8f72eece-5f0a-4566-a5a7-e65cfa5b3df4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/8f72eece-5f0a-4566-a5a7-e65cfa5b3df4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f72eece-5f0a-4566-a5a7-e65cfa5b3df4-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 18:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Smoothbrain69 opened a cash secured put on $GME expiring 2022-07-29</title>
+      <link>https://thetagang.com/Smoothbrain69/69ad0e58-5082-42fb-97a7-5d29b3f6f594</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/69ad0e58-5082-42fb-97a7-5d29b3f6f594'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">69ad0e58-5082-42fb-97a7-5d29b3f6f594-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Chueckle opened a cash secured put on $GOOGL expiring 2022-09-15</title>
+      <link>https://thetagang.com/Chueckle/b08618e5-34e9-4cef-ae03-60df7bf321c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Chueckle/b08618e5-34e9-4cef-ae03-60df7bf321c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b08618e5-34e9-4cef-ae03-60df7bf321c5-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 19:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 alex609 opened a cash secured put on $MARA expiring 2022-07-29</title>
+      <link>https://thetagang.com/alex609/3ff6f881-c872-4b1e-9ff7-8db007023951</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/3ff6f881-c872-4b1e-9ff7-8db007023951'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3ff6f881-c872-4b1e-9ff7-8db007023951-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 19:42:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 alex609 opened a cash secured put on $BITO expiring 2022-07-29</title>
+      <link>https://thetagang.com/alex609/140b33c9-a1fa-4da8-aea2-2d788cc609f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/140b33c9-a1fa-4da8-aea2-2d788cc609f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">140b33c9-a1fa-4da8-aea2-2d788cc609f7-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 19:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alex609 closed a cash secured put on $BITO expiring 2022-07-22</title>
+      <link>https://thetagang.com/alex609/3c2adc7d-3407-4d56-ba68-23e97892680f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/3c2adc7d-3407-4d56-ba68-23e97892680f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3c2adc7d-3407-4d56-ba68-23e97892680f-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 19:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alex609 closed a cash secured put on $BITO expiring 2022-08-12</title>
+      <link>https://thetagang.com/alex609/d06b99e6-638a-425e-b07c-ae50a586ec58</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/d06b99e6-638a-425e-b07c-ae50a586ec58'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d06b99e6-638a-425e-b07c-ae50a586ec58-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 20:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 alex609 closed a cash secured put on $MARA expiring 2022-07-29</title>
+      <link>https://thetagang.com/alex609/074d555e-3053-4640-b8bf-f69e26dda6b7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/alex609/074d555e-3053-4640-b8bf-f69e26dda6b7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">074d555e-3053-4640-b8bf-f69e26dda6b7-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 20:06:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 zont opened a cash secured put on $AMD expiring 2022-08-05</title>
+      <link>https://thetagang.com/zont/725f53af-e02e-44d9-9577-7651b81fd644</link>
+      <description>For more details, &lt;a href='https://thetagang.com/zont/725f53af-e02e-44d9-9577-7651b81fd644'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">725f53af-e02e-44d9-9577-7651b81fd644-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 20:54:51 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

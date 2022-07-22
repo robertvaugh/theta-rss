@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only call credit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only call credit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 antimeta opened a call credit spread on $QQQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/antimeta/f7cfeb60-1aaa-4c9f-9b19-a340d03bfd6a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/f7cfeb60-1aaa-4c9f-9b19-a340d03bfd6a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f7cfeb60-1aaa-4c9f-9b19-a340d03bfd6a-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 16:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-07</title>
+      <link>https://thetagang.com/Redpill2020/2c9cf177-f328-4adb-9828-8b69dadc189a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/2c9cf177-f328-4adb-9828-8b69dadc189a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2c9cf177-f328-4adb-9828-8b69dadc189a-closing</guid>
+      <pubDate>Thu, 07 Jul 2022 16:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $LULU expiring 2022-07-15</title>
+      <link>https://thetagang.com/OmniTrio/b7f759c1-37fb-41d0-9cda-7c67710c3ffe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/b7f759c1-37fb-41d0-9cda-7c67710c3ffe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b7f759c1-37fb-41d0-9cda-7c67710c3ffe-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 17:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a call credit spread on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/antimeta/146dd320-cf8c-4935-90e0-352a8026bd8f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/146dd320-cf8c-4935-90e0-352a8026bd8f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">146dd320-cf8c-4935-90e0-352a8026bd8f-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 18:06:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 schwisch opened a call credit spread on $JWN expiring 2022-08-19</title>
+      <link>https://thetagang.com/schwisch/e188a1eb-f007-4cb1-b3ba-566d530d44c3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/schwisch/e188a1eb-f007-4cb1-b3ba-566d530d44c3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e188a1eb-f007-4cb1-b3ba-566d530d44c3-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 19:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call credit spread on $MSTR expiring 2022-07-15</title>
+      <link>https://thetagang.com/AverageBear/0430c772-708c-4752-bdcf-2785433e4be0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/0430c772-708c-4752-bdcf-2785433e4be0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0430c772-708c-4752-bdcf-2785433e4be0-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 22:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a call credit spread on $COST expiring 2022-07-15</title>
+      <link>https://thetagang.com/Saxi/177abe9c-0104-4edb-ba98-cfc894f964f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/177abe9c-0104-4edb-ba98-cfc894f964f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">177abe9c-0104-4edb-ba98-cfc894f964f3-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 13:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dragon_Lady_Violet closed a call credit spread on $SPX expiring 2022-07-14</title>
+      <link>https://thetagang.com/Dragon_Lady_Violet/8e9d21c8-0271-4035-aa3c-251513c31145</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dragon_Lady_Violet/8e9d21c8-0271-4035-aa3c-251513c31145'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8e9d21c8-0271-4035-aa3c-251513c31145-closing</guid>
+      <pubDate>Fri, 08 Jul 2022 14:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a call credit spread on $QQQ expiring 2022-07-08</title>
+      <link>https://thetagang.com/dom747/b8e3091a-050b-42c9-a0e7-b267ec3b8c9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/b8e3091a-050b-42c9-a0e7-b267ec3b8c9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b8e3091a-050b-42c9-a0e7-b267ec3b8c9a-closing</guid>
+      <pubDate>Fri, 08 Jul 2022 14:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $DIA expiring 2022-08-19</title>
+      <link>https://thetagang.com/leogriv/fad8ade9-3feb-4499-84fd-f85e68473761</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/fad8ade9-3feb-4499-84fd-f85e68473761'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fad8ade9-3feb-4499-84fd-f85e68473761-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 17:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $CRM expiring 2022-08-19</title>
+      <link>https://thetagang.com/leogriv/893ea0d3-0498-43bb-94fe-38ed337a4b80</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/893ea0d3-0498-43bb-94fe-38ed337a4b80'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">893ea0d3-0498-43bb-94fe-38ed337a4b80-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 17:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $NKE expiring 2022-08-19</title>
+      <link>https://thetagang.com/leogriv/51b07e8d-799f-4ae5-8dbc-513fa1be6c52</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/51b07e8d-799f-4ae5-8dbc-513fa1be6c52'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51b07e8d-799f-4ae5-8dbc-513fa1be6c52-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 17:27:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-08</title>
+      <link>https://thetagang.com/Redpill2020/e7265a68-90e3-4c59-a9c8-bc849bfa12d0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/e7265a68-90e3-4c59-a9c8-bc849bfa12d0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e7265a68-90e3-4c59-a9c8-bc849bfa12d0-closing</guid>
+      <pubDate>Fri, 08 Jul 2022 17:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a call credit spread on $SPY expiring 2022-08-19</title>
+      <link>https://thetagang.com/Saxi/fb2fb5fa-7989-47ed-ade8-95b5fca619a8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/fb2fb5fa-7989-47ed-ade8-95b5fca619a8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb2fb5fa-7989-47ed-ade8-95b5fca619a8-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 15:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-11</title>
+      <link>https://thetagang.com/Redpill2020/799f686b-b84f-46ec-a746-f5d254e21357</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/799f686b-b84f-46ec-a746-f5d254e21357'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">799f686b-b84f-46ec-a746-f5d254e21357-closing</guid>
+      <pubDate>Mon, 11 Jul 2022 16:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call credit spread on $LI expiring 2022-08-05</title>
+      <link>https://thetagang.com/jrue/a7f6620c-6bc1-47aa-a60c-22c60087b9a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a7f6620c-6bc1-47aa-a60c-22c60087b9a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a7f6620c-6bc1-47aa-a60c-22c60087b9a7-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 16:33:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 blobbingaway closed a call credit spread on $SPX expiring 2022-07-11</title>
+      <link>https://thetagang.com/blobbingaway/fb8b78ba-96b1-4043-b6ce-433339834f5d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/fb8b78ba-96b1-4043-b6ce-433339834f5d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb8b78ba-96b1-4043-b6ce-433339834f5d-closing</guid>
+      <pubDate>Mon, 11 Jul 2022 18:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a call credit spread on $SPY expiring 2022-08-19</title>
+      <link>https://thetagang.com/Saxi/86948087-ab75-4dd7-a5cb-be19924c951a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/86948087-ab75-4dd7-a5cb-be19924c951a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">86948087-ab75-4dd7-a5cb-be19924c951a-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 19:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a call credit spread on $SPY expiring 2022-08-19</title>
+      <link>https://thetagang.com/Saxi/bf52a5da-206b-4218-a71b-365cb5b64610</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/bf52a5da-206b-4218-a71b-365cb5b64610'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bf52a5da-206b-4218-a71b-365cb5b64610-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 19:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BryGuy1104 opened a call credit spread on $CHTR expiring 2022-07-22</title>
+      <link>https://thetagang.com/BryGuy1104/97cf4b4f-2715-4106-a44b-efd36a2e7b08</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BryGuy1104/97cf4b4f-2715-4106-a44b-efd36a2e7b08'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">97cf4b4f-2715-4106-a44b-efd36a2e7b08-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 01:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BryGuy1104 opened a call credit spread on $GIS expiring 2022-08-19</title>
+      <link>https://thetagang.com/BryGuy1104/314c1554-6a1e-43ba-ac43-847381e20ef6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BryGuy1104/314c1554-6a1e-43ba-ac43-847381e20ef6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">314c1554-6a1e-43ba-ac43-847381e20ef6-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 01:31:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BryGuy1104 opened a call credit spread on $DBX expiring 2022-07-29</title>
+      <link>https://thetagang.com/BryGuy1104/24584753-90d8-4baa-885f-e464fe73347a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BryGuy1104/24584753-90d8-4baa-885f-e464fe73347a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">24584753-90d8-4baa-885f-e464fe73347a-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 01:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BryGuy1104 opened a call credit spread on $BAH expiring 2022-08-19</title>
+      <link>https://thetagang.com/BryGuy1104/f02c5413-ed72-4430-928f-378411670670</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BryGuy1104/f02c5413-ed72-4430-928f-378411670670'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f02c5413-ed72-4430-928f-378411670670-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 01:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/randman70/9564c1bf-7ff9-475d-9142-f63350e50964</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/9564c1bf-7ff9-475d-9142-f63350e50964'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9564c1bf-7ff9-475d-9142-f63350e50964-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 02:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/dalben/e49259cd-a177-483a-88da-716a7ec6f9d7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/e49259cd-a177-483a-88da-716a7ec6f9d7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e49259cd-a177-483a-88da-716a7ec6f9d7-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 02:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rcastro70 opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/rcastro70/eaa45e60-62c3-4de4-99ad-7f88880c69f4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rcastro70/eaa45e60-62c3-4de4-99ad-7f88880c69f4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eaa45e60-62c3-4de4-99ad-7f88880c69f4-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 02:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Notlegend closed a call credit spread on $SPY expiring 2022-07-13</title>
+      <link>https://thetagang.com/Notlegend/ba21eb77-dc72-4786-b519-fb27dd7561f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Notlegend/ba21eb77-dc72-4786-b519-fb27dd7561f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba21eb77-dc72-4786-b519-fb27dd7561f3-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 14:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/dalben/361c1119-5ab5-43f6-a177-75ece0f3e4f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/361c1119-5ab5-43f6-a177-75ece0f3e4f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">361c1119-5ab5-43f6-a177-75ece0f3e4f2-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 16:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-12</title>
+      <link>https://thetagang.com/Redpill2020/31bf1300-5f9c-48da-813b-c78716648277</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/31bf1300-5f9c-48da-813b-c78716648277'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">31bf1300-5f9c-48da-813b-c78716648277-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 16:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 blobbingaway closed a call credit spread on $SPX expiring 2022-07-12</title>
+      <link>https://thetagang.com/blobbingaway/89721aae-6f85-44b5-b9e8-fe97ef9bafb7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/89721aae-6f85-44b5-b9e8-fe97ef9bafb7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">89721aae-6f85-44b5-b9e8-fe97ef9bafb7-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 17:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HeavyDD7 closed a call credit spread on $JNJ expiring 2022-07-22</title>
+      <link>https://thetagang.com/HeavyDD7/4ee6de77-d55c-49f1-adf8-2436fb1d7f26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HeavyDD7/4ee6de77-d55c-49f1-adf8-2436fb1d7f26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4ee6de77-d55c-49f1-adf8-2436fb1d7f26-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 17:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a call credit spread on $XLE expiring 2022-08-19</title>
+      <link>https://thetagang.com/Rustyerr/88383813-3410-470d-849b-f5e4a37206ba</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/88383813-3410-470d-849b-f5e4a37206ba'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">88383813-3410-470d-849b-f5e4a37206ba-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 18:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $MSFT expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/7600184b-0f20-4d34-88c1-523e3763cc86</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/7600184b-0f20-4d34-88c1-523e3763cc86'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7600184b-0f20-4d34-88c1-523e3763cc86-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 19:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $BA expiring 2022-08-19</title>
+      <link>https://thetagang.com/OmniTrio/768551b6-0bec-4f80-8472-372c19e86105</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/768551b6-0bec-4f80-8472-372c19e86105'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">768551b6-0bec-4f80-8472-372c19e86105-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 19:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 amcarthur opened a call credit spread on $AXP expiring 2022-07-15</title>
+      <link>https://thetagang.com/amcarthur/ad8eea34-5eeb-4a31-be60-eb0faca28a7b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/amcarthur/ad8eea34-5eeb-4a31-be60-eb0faca28a7b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad8eea34-5eeb-4a31-be60-eb0faca28a7b-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 05:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Yohoho closed a call credit spread on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/Yohoho/18428080-8945-4a24-8c9d-da57ec833556</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Yohoho/18428080-8945-4a24-8c9d-da57ec833556'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">18428080-8945-4a24-8c9d-da57ec833556-closing</guid>
+      <pubDate>Wed, 13 Jul 2022 14:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Maggatron opened a call credit spread on $SPY expiring 2022-08-18</title>
+      <link>https://thetagang.com/Maggatron/700202f4-4405-4d69-93db-a13ebf13b40a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Maggatron/700202f4-4405-4d69-93db-a13ebf13b40a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">700202f4-4405-4d69-93db-a13ebf13b40a-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 17:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call credit spread on $META expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/bdd7df7a-e71d-43b9-acae-32630a68a1b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/bdd7df7a-e71d-43b9-acae-32630a68a1b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bdd7df7a-e71d-43b9-acae-32630a68a1b8-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 17:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a call credit spread on $LI expiring 2022-08-04</title>
+      <link>https://thetagang.com/Akane/6523562f-d712-40fb-91a7-9c410e30dfba</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/6523562f-d712-40fb-91a7-9c410e30dfba'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6523562f-d712-40fb-91a7-9c410e30dfba-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 19:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Justinkredible007 opened a call credit spread on $SPY expiring 2022-08-12</title>
+      <link>https://thetagang.com/Justinkredible007/f3a3a59f-1d2f-4505-a69e-767f9f26e0d6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Justinkredible007/f3a3a59f-1d2f-4505-a69e-767f9f26e0d6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3a3a59f-1d2f-4505-a69e-767f9f26e0d6-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 00:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Expresso_bean opened a call credit spread on $SPY expiring 2023-01-20</title>
+      <link>https://thetagang.com/Expresso_bean/43fde7b1-1778-4766-9ab8-86fba1ae45a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/43fde7b1-1778-4766-9ab8-86fba1ae45a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43fde7b1-1778-4766-9ab8-86fba1ae45a1-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 14:49:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $GOOG expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/e52dc2aa-408b-4b4d-adab-67f232acb346</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/e52dc2aa-408b-4b4d-adab-67f232acb346'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e52dc2aa-408b-4b4d-adab-67f232acb346-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 14:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Expresso_bean closed a call credit spread on $SPY expiring 2022-08-19</title>
+      <link>https://thetagang.com/Expresso_bean/a544f544-00e8-49a4-9a8f-d2d04ebddaec</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/a544f544-00e8-49a4-9a8f-d2d04ebddaec'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a544f544-00e8-49a4-9a8f-d2d04ebddaec-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 17:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-14</title>
+      <link>https://thetagang.com/Redpill2020/16dc5939-09d8-45fb-a56b-384e8fa02f3d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/16dc5939-09d8-45fb-a56b-384e8fa02f3d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">16dc5939-09d8-45fb-a56b-384e8fa02f3d-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 18:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Expresso_bean opened a call credit spread on $SPY expiring 2023-01-20</title>
+      <link>https://thetagang.com/Expresso_bean/d4005afc-d9e8-4498-9cd5-5ac4aa964cea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Expresso_bean/d4005afc-d9e8-4498-9cd5-5ac4aa964cea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d4005afc-d9e8-4498-9cd5-5ac4aa964cea-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 18:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Redpill2020 opened a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/Redpill2020/6eafeac4-425a-4e11-8383-26a204fb4b1e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/6eafeac4-425a-4e11-8383-26a204fb4b1e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6eafeac4-425a-4e11-8383-26a204fb4b1e-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 19:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/Redpill2020/4c4d98dd-1109-400c-8ffd-a612cf9292d1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/4c4d98dd-1109-400c-8ffd-a612cf9292d1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4c4d98dd-1109-400c-8ffd-a612cf9292d1-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 19:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a call credit spread on $FTNT expiring 2022-08-19</title>
+      <link>https://thetagang.com/rostsunshine/dded2c03-2f3f-4d44-aa4c-3d1dc701a429</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/dded2c03-2f3f-4d44-aa4c-3d1dc701a429'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dded2c03-2f3f-4d44-aa4c-3d1dc701a429-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 19:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/HippoDan/214218d3-8dc7-47c5-9634-1057f0048c91</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/214218d3-8dc7-47c5-9634-1057f0048c91'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">214218d3-8dc7-47c5-9634-1057f0048c91-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 21:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a call credit spread on $RIVN expiring 2022-08-05</title>
+      <link>https://thetagang.com/rostsunshine/8261da40-bb1b-442f-ba20-cbb6176476b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/8261da40-bb1b-442f-ba20-cbb6176476b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8261da40-bb1b-442f-ba20-cbb6176476b8-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 21:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 schwisch opened a call credit spread on $M expiring 2022-08-19</title>
+      <link>https://thetagang.com/schwisch/676f128d-f5c7-41d2-9d19-b4369810b140</link>
+      <description>For more details, &lt;a href='https://thetagang.com/schwisch/676f128d-f5c7-41d2-9d19-b4369810b140'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">676f128d-f5c7-41d2-9d19-b4369810b140-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 13:36:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a call credit spread on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/antimeta/0da21241-5ecc-4cc3-bc8d-c8f42938e3fb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/0da21241-5ecc-4cc3-bc8d-c8f42938e3fb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0da21241-5ecc-4cc3-bc8d-c8f42938e3fb-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 15:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call credit spread on $RBLX expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/f701bba4-8075-4a5b-adea-ac771a08de7a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/f701bba4-8075-4a5b-adea-ac771a08de7a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f701bba4-8075-4a5b-adea-ac771a08de7a-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 15:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 dom747 closed a call credit spread on $QQQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/dom747/b59636be-82bc-405b-acae-741ab5209845</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/b59636be-82bc-405b-acae-741ab5209845'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b59636be-82bc-405b-acae-741ab5209845-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 16:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $XND expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/91d1086c-1373-4d38-86b2-40e5d2652c0c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/91d1086c-1373-4d38-86b2-40e5d2652c0c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">91d1086c-1373-4d38-86b2-40e5d2652c0c-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 16:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/randman70/b37e1023-0a1a-4618-8458-5fc4b1417616</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/b37e1023-0a1a-4618-8458-5fc4b1417616'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b37e1023-0a1a-4618-8458-5fc4b1417616-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 17:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $TSLA expiring 2022-07-22</title>
+      <link>https://thetagang.com/dalben/0b004ee1-8736-4621-8101-264db563f7c6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/0b004ee1-8736-4621-8101-264db563f7c6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0b004ee1-8736-4621-8101-264db563f7c6-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 17:39:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a call credit spread on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/Krasberry/87101de1-4bb7-4e51-8ca9-8ccc37de9277</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/87101de1-4bb7-4e51-8ca9-8ccc37de9277'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87101de1-4bb7-4e51-8ca9-8ccc37de9277-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 18:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $NFLX expiring 2022-08-19</title>
+      <link>https://thetagang.com/OmniTrio/0c582e07-4392-49b3-a0e6-17145896d996</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/0c582e07-4392-49b3-a0e6-17145896d996'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0c582e07-4392-49b3-a0e6-17145896d996-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 19:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call credit spread on $NFLX expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/382db529-207f-4f7d-aa2e-0acd9a71e4c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/382db529-207f-4f7d-aa2e-0acd9a71e4c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">382db529-207f-4f7d-aa2e-0acd9a71e4c2-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 19:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/HippoDan/f8a033c3-69c3-414f-b1dc-73c43a3ed528</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/f8a033c3-69c3-414f-b1dc-73c43a3ed528'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f8a033c3-69c3-414f-b1dc-73c43a3ed528-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 22:08:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a call credit spread on $SPX expiring 2022-07-15</title>
+      <link>https://thetagang.com/HippoDan/9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ac0ea9c-57a1-490e-8d2f-e9cff50d85e2-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 22:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $NFLX expiring 2022-07-22</title>
+      <link>https://thetagang.com/OmniTrio/ccf233ba-a9e8-46ea-9fd2-3105cc209135</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/ccf233ba-a9e8-46ea-9fd2-3105cc209135'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ccf233ba-a9e8-46ea-9fd2-3105cc209135-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 13:37:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-18</title>
+      <link>https://thetagang.com/Redpill2020/b1096573-a87a-4c78-b65c-31601c42ef55</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/b1096573-a87a-4c78-b65c-31601c42ef55'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b1096573-a87a-4c78-b65c-31601c42ef55-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 15:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dragon_Lady_Violet opened a call credit spread on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Dragon_Lady_Violet/a066b61d-7656-4cc2-9a1b-2746192ee84a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dragon_Lady_Violet/a066b61d-7656-4cc2-9a1b-2746192ee84a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a066b61d-7656-4cc2-9a1b-2746192ee84a-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 16:04:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a call credit spread on $SPY expiring 2022-08-08</title>
+      <link>https://thetagang.com/randman70/96f37bb4-9cd9-495c-9f47-ffbd80f2b4e5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/96f37bb4-9cd9-495c-9f47-ffbd80f2b4e5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">96f37bb4-9cd9-495c-9f47-ffbd80f2b4e5-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 16:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $SPY expiring 2022-08-08</title>
+      <link>https://thetagang.com/dalben/d659f165-07a3-4e86-98b2-0a186fd6a21d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/d659f165-07a3-4e86-98b2-0a186fd6a21d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d659f165-07a3-4e86-98b2-0a186fd6a21d-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 16:39:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AverageBear opened a call credit spread on $BITO expiring 2022-07-29</title>
+      <link>https://thetagang.com/AverageBear/aa40677a-3ed9-45c4-8526-647fd44f0f79</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AverageBear/aa40677a-3ed9-45c4-8526-647fd44f0f79'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aa40677a-3ed9-45c4-8526-647fd44f0f79-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 17:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 PAFbib opened a call credit spread on $GME expiring 2022-08-19</title>
+      <link>https://thetagang.com/PAFbib/1e42bbc4-e5f7-4544-ac57-e4a201c23c48</link>
+      <description>For more details, &lt;a href='https://thetagang.com/PAFbib/1e42bbc4-e5f7-4544-ac57-e4a201c23c48'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e42bbc4-e5f7-4544-ac57-e4a201c23c48-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 01:53:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $AAPL expiring 2022-08-19</title>
+      <link>https://thetagang.com/OmniTrio/8b1e365b-d46f-4855-bfc1-2669d04e04f6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/8b1e365b-d46f-4855-bfc1-2669d04e04f6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b1e365b-d46f-4855-bfc1-2669d04e04f6-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 02:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/Redpill2020/71144e5a-379f-4b40-bb52-1da1b164730e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/71144e5a-379f-4b40-bb52-1da1b164730e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">71144e5a-379f-4b40-bb52-1da1b164730e-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 16:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a call credit spread on $TWTR expiring 2022-07-29</title>
+      <link>https://thetagang.com/Krasberry/03827801-f71c-4117-9fea-b7048c8b9580</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/03827801-f71c-4117-9fea-b7048c8b9580'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">03827801-f71c-4117-9fea-b7048c8b9580-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 17:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a call credit spread on $TSLA expiring 2022-07-29</title>
+      <link>https://thetagang.com/ahart75/bdfa5720-ce46-4989-8509-130b7451414c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/bdfa5720-ce46-4989-8509-130b7451414c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bdfa5720-ce46-4989-8509-130b7451414c-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 17:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-20</title>
+      <link>https://thetagang.com/Redpill2020/660b25e4-9b28-4378-8494-c7d4b0bf92d8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/660b25e4-9b28-4378-8494-c7d4b0bf92d8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">660b25e4-9b28-4378-8494-c7d4b0bf92d8-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 18:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 OmniTrio opened a call credit spread on $SPOT expiring 2022-08-19</title>
+      <link>https://thetagang.com/OmniTrio/573b97b0-c336-4e49-9037-9c9b0e8ac0a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/OmniTrio/573b97b0-c336-4e49-9037-9c9b0e8ac0a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">573b97b0-c336-4e49-9037-9c9b0e8ac0a0-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 18:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-19</title>
+      <link>https://thetagang.com/Redpill2020/ef052c72-df09-422d-a837-6279d9e1afd4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/ef052c72-df09-422d-a837-6279d9e1afd4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef052c72-df09-422d-a837-6279d9e1afd4-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 19:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a call credit spread on $SPY expiring 2022-07-29</title>
+      <link>https://thetagang.com/Krasberry/81e45569-458e-49fa-96b3-81cd08f7e6de</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/81e45569-458e-49fa-96b3-81cd08f7e6de'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">81e45569-458e-49fa-96b3-81cd08f7e6de-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 17:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a call credit spread on $QQQ expiring 2022-08-10</title>
+      <link>https://thetagang.com/randman70/1aee0617-16f6-4e77-a89e-e255c6e2f501</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/1aee0617-16f6-4e77-a89e-e255c6e2f501'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1aee0617-16f6-4e77-a89e-e255c6e2f501-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 18:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $QQQ expiring 2022-08-10</title>
+      <link>https://thetagang.com/dalben/8a11d323-7d22-452a-8f99-2823e54f4edf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/8a11d323-7d22-452a-8f99-2823e54f4edf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8a11d323-7d22-452a-8f99-2823e54f4edf-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 18:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 njdeleon closed a call credit spread on $GOOG expiring 2022-08-26</title>
+      <link>https://thetagang.com/njdeleon/0e9744c7-b74b-42bc-9d03-eef3cbff82d4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/njdeleon/0e9744c7-b74b-42bc-9d03-eef3cbff82d4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e9744c7-b74b-42bc-9d03-eef3cbff82d4-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 19:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a call credit spread on $QQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/dom747/a5ff302d-7377-4c3a-89fb-19c7ace6292f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/a5ff302d-7377-4c3a-89fb-19c7ace6292f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a5ff302d-7377-4c3a-89fb-19c7ace6292f-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 19:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HippoDan closed a call credit spread on $SPX expiring 2022-07-20</title>
+      <link>https://thetagang.com/HippoDan/4f0a0388-fece-428b-8b9e-8ba6eb49ebcf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/4f0a0388-fece-428b-8b9e-8ba6eb49ebcf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4f0a0388-fece-428b-8b9e-8ba6eb49ebcf-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 00:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a call credit spread on $TSLA expiring 2022-07-29</title>
+      <link>https://thetagang.com/randman70/d8d9c12d-91c5-4b1d-bfaf-82ef7692d33c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/d8d9c12d-91c5-4b1d-bfaf-82ef7692d33c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d8d9c12d-91c5-4b1d-bfaf-82ef7692d33c-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a call credit spread on $LI expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/0bb609eb-8d1b-49b0-aa5a-93e3e0d55d0a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0bb609eb-8d1b-49b0-aa5a-93e3e0d55d0a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0bb609eb-8d1b-49b0-aa5a-93e3e0d55d0a-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a call credit spread on $TSLA expiring 2022-07-29</title>
+      <link>https://thetagang.com/dalben/0e5932a9-d981-4934-9f18-b6a2c6894d3b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/0e5932a9-d981-4934-9f18-b6a2c6894d3b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e5932a9-d981-4934-9f18-b6a2c6894d3b-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Jongkar opened a call credit spread on $TSLA expiring 2022-07-29</title>
+      <link>https://thetagang.com/Jongkar/57dc516c-2b89-40ba-80f3-f4515de0a3f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Jongkar/57dc516c-2b89-40ba-80f3-f4515de0a3f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57dc516c-2b89-40ba-80f3-f4515de0a3f3-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a call credit spread on $SPY expiring 2022-07-27</title>
+      <link>https://thetagang.com/Krasberry/4da5141c-7079-478d-bf11-e9b06822882f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/4da5141c-7079-478d-bf11-e9b06822882f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4da5141c-7079-478d-bf11-e9b06822882f-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 15:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Redpill2020 opened a call credit spread on $SPX expiring 2022-07-22</title>
+      <link>https://thetagang.com/Redpill2020/e43e7f25-56c0-4e90-b29c-adb5dbf510a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/e43e7f25-56c0-4e90-b29c-adb5dbf510a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e43e7f25-56c0-4e90-b29c-adb5dbf510a1-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 15:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Redpill2020 closed a call credit spread on $SPX expiring 2022-07-21</title>
+      <link>https://thetagang.com/Redpill2020/ef7eca40-d68e-4f6d-ac3b-f098a55053f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/ef7eca40-d68e-4f6d-ac3b-f098a55053f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ef7eca40-d68e-4f6d-ac3b-f098a55053f2-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 15:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call credit spread on $RDFN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Burnttoast/dcd1ba63-f00f-462f-9569-2cdf5355baee</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/dcd1ba63-f00f-462f-9569-2cdf5355baee'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dcd1ba63-f00f-462f-9569-2cdf5355baee-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a call credit spread on $TSLA expiring 2022-09-16</title>
+      <link>https://thetagang.com/Burnttoast/b6bfc6a2-6aaa-4a86-82fd-66b855e3c909</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/b6bfc6a2-6aaa-4a86-82fd-66b855e3c909'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b6bfc6a2-6aaa-4a86-82fd-66b855e3c909-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 19:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 antimeta closed a call credit spread on $AMD expiring 2022-07-22</title>
+      <link>https://thetagang.com/antimeta/3e4412a4-a09b-4398-ad00-5f4db6a56e97</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/3e4412a4-a09b-4398-ad00-5f4db6a56e97'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3e4412a4-a09b-4398-ad00-5f4db6a56e97-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $TSLA expiring 2022-08-12</title>
+      <link>https://thetagang.com/leogriv/a05d350d-6d81-45b7-bc1b-16dced923dcd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/a05d350d-6d81-45b7-bc1b-16dced923dcd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a05d350d-6d81-45b7-bc1b-16dced923dcd-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $LET expiring 2022-08-12</title>
+      <link>https://thetagang.com/leogriv/e0d1d92c-f930-457a-906a-e50a8afc3bea</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/e0d1d92c-f930-457a-906a-e50a8afc3bea'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e0d1d92c-f930-457a-906a-e50a8afc3bea-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $HD expiring 2022-08-12</title>
+      <link>https://thetagang.com/leogriv/4e77b02e-e00c-4878-babc-6fb855292a8e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/4e77b02e-e00c-4878-babc-6fb855292a8e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4e77b02e-e00c-4878-babc-6fb855292a8e-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:31:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 leogriv opened a call credit spread on $NFLX expiring 2022-08-12</title>
+      <link>https://thetagang.com/leogriv/e65d4c0a-56a4-4d12-ae57-40f35e756fbe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/leogriv/e65d4c0a-56a4-4d12-ae57-40f35e756fbe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e65d4c0a-56a4-4d12-ae57-40f35e756fbe-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 15:32:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HeavyDD7 opened a call credit spread on $JNJ expiring 2022-08-19</title>
+      <link>https://thetagang.com/HeavyDD7/21aa829b-46e8-4294-855c-ee49b9f1e0d7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HeavyDD7/21aa829b-46e8-4294-855c-ee49b9f1e0d7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">21aa829b-46e8-4294-855c-ee49b9f1e0d7-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 17:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 cjg269 opened a call credit spread on $TSLA expiring 2022-08-26</title>
+      <link>https://thetagang.com/cjg269/27bb1a51-317d-45b4-9234-7c3a9e783d2c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/cjg269/27bb1a51-317d-45b4-9234-7c3a9e783d2c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">27bb1a51-317d-45b4-9234-7c3a9e783d2c-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 commander_turtle opened a call credit spread on $AAPL expiring 2022-08-19</title>
+      <link>https://thetagang.com/commander_turtle/da62f921-2c73-463f-8abb-0d447fa282a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/commander_turtle/da62f921-2c73-463f-8abb-0d447fa282a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da62f921-2c73-463f-8abb-0d447fa282a9-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Redpill2020 opened a call credit spread on $SPX expiring 2022-07-25</title>
+      <link>https://thetagang.com/Redpill2020/215e9676-0dd7-408f-b586-2c82008f1a1c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Redpill2020/215e9676-0dd7-408f-b586-2c82008f1a1c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">215e9676-0dd7-408f-b586-2c82008f1a1c-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 21:47:46 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short naked call trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short naked call trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 Saxi opened a short naked call on $WSM expiring 2022-07-15</title>
+      <link>https://thetagang.com/Saxi/3b7d4977-b382-42a9-a105-bc7d8fe2576c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/3b7d4977-b382-42a9-a105-bc7d8fe2576c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3b7d4977-b382-42a9-a105-bc7d8fe2576c-opening</guid>
+      <pubDate>Mon, 06 Jun 2022 14:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a short naked call on $DPZ expiring 2022-06-10</title>
+      <link>https://thetagang.com/Saxi/fc74c5a0-9b27-4475-9871-705f4124d339</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/fc74c5a0-9b27-4475-9871-705f4124d339'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fc74c5a0-9b27-4475-9871-705f4124d339-opening</guid>
+      <pubDate>Mon, 06 Jun 2022 15:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AlphaBravoCapital opened a short naked call on $MDB expiring 2022-07-07</title>
+      <link>https://thetagang.com/AlphaBravoCapital/e66ec610-5287-4ec6-b0bc-30f5a1b1d44c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AlphaBravoCapital/e66ec610-5287-4ec6-b0bc-30f5a1b1d44c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e66ec610-5287-4ec6-b0bc-30f5a1b1d44c-opening</guid>
+      <pubDate>Tue, 07 Jun 2022 16:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a short naked call on $SBUX expiring 2022-06-17</title>
+      <link>https://thetagang.com/Saxi/fe939624-b7d4-46ef-a6d4-3fd914696cf5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/fe939624-b7d4-46ef-a6d4-3fd914696cf5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe939624-b7d4-46ef-a6d4-3fd914696cf5-opening</guid>
+      <pubDate>Thu, 09 Jun 2022 15:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-06-30</title>
+      <link>https://thetagang.com/jrue/5bca1566-0a2b-4936-a78d-64e61502e177</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/5bca1566-0a2b-4936-a78d-64e61502e177'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5bca1566-0a2b-4936-a78d-64e61502e177-opening</guid>
+      <pubDate>Thu, 09 Jun 2022 18:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Hirad opened a short naked call on $XOP expiring 2022-06-17</title>
+      <link>https://thetagang.com/Hirad/71331352-6827-4894-86ae-f1a9e4509000</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hirad/71331352-6827-4894-86ae-f1a9e4509000'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">71331352-6827-4894-86ae-f1a9e4509000-opening</guid>
+      <pubDate>Thu, 09 Jun 2022 18:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $FL expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/03e13e6e-495f-4101-82c6-2d2770c6f182</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/03e13e6e-495f-4101-82c6-2d2770c6f182'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">03e13e6e-495f-4101-82c6-2d2770c6f182-opening</guid>
+      <pubDate>Thu, 09 Jun 2022 19:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short naked call on $/MES expiring 2022-06-17</title>
+      <link>https://thetagang.com/jrue/317c2d36-8f67-4058-9ac2-bd1bf02e9d9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/317c2d36-8f67-4058-9ac2-bd1bf02e9d9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">317c2d36-8f67-4058-9ac2-bd1bf02e9d9d-closing</guid>
+      <pubDate>Fri, 10 Jun 2022 14:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a short naked call on $AMD expiring 2022-06-17</title>
+      <link>https://thetagang.com/Burnttoast/096a3f6b-075e-45b9-bceb-3caf3e264786</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/096a3f6b-075e-45b9-bceb-3caf3e264786'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">096a3f6b-075e-45b9-bceb-3caf3e264786-closing</guid>
+      <pubDate>Fri, 10 Jun 2022 19:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-06-17</title>
+      <link>https://thetagang.com/yueyanglu319/7ed94c25-b781-4106-a6e2-478f18ac8f87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/7ed94c25-b781-4106-a6e2-478f18ac8f87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7ed94c25-b781-4106-a6e2-478f18ac8f87-opening</guid>
+      <pubDate>Sat, 11 Jun 2022 02:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $GLD expiring 2022-06-17</title>
+      <link>https://thetagang.com/yueyanglu319/fcfa51f9-b791-4e28-9545-19983f20c6a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/fcfa51f9-b791-4e28-9545-19983f20c6a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcfa51f9-b791-4e28-9545-19983f20c6a2-closing</guid>
+      <pubDate>Mon, 13 Jun 2022 14:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-06-17</title>
+      <link>https://thetagang.com/yueyanglu319/d36b08d5-8bbb-41b9-8d47-b773887eb55d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/d36b08d5-8bbb-41b9-8d47-b773887eb55d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d36b08d5-8bbb-41b9-8d47-b773887eb55d-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 14:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MES expiring 2022-06-17</title>
+      <link>https://thetagang.com/jrue/51f8d948-a01a-4b25-98ed-d77dd1bb64f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/51f8d948-a01a-4b25-98ed-d77dd1bb64f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51f8d948-a01a-4b25-98ed-d77dd1bb64f8-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 18:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-06-30</title>
+      <link>https://thetagang.com/jrue/52ff2d04-66ad-4e06-82a6-b35524108468</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/52ff2d04-66ad-4e06-82a6-b35524108468'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">52ff2d04-66ad-4e06-82a6-b35524108468-opening</guid>
+      <pubDate>Mon, 13 Jun 2022 18:40:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 quotidianautonomy opened a short naked call on $TWTR expiring 2022-07-15</title>
+      <link>https://thetagang.com/quotidianautonomy/52824c31-a9f2-44ef-8dc0-070b401f7290</link>
+      <description>For more details, &lt;a href='https://thetagang.com/quotidianautonomy/52824c31-a9f2-44ef-8dc0-070b401f7290'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">52824c31-a9f2-44ef-8dc0-070b401f7290-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 18:52:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $FL expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/f7da79b7-ab09-42e0-8f9d-09308d172de6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f7da79b7-ab09-42e0-8f9d-09308d172de6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f7da79b7-ab09-42e0-8f9d-09308d172de6-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 19:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-06-17</title>
+      <link>https://thetagang.com/yueyanglu319/ff357ad0-6a16-4dbd-a504-e2be303e2a09</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/ff357ad0-6a16-4dbd-a504-e2be303e2a09'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff357ad0-6a16-4dbd-a504-e2be303e2a09-opening</guid>
+      <pubDate>Tue, 14 Jun 2022 20:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 teclbitties closed a short naked call on $TNA expiring 2022-07-15</title>
+      <link>https://thetagang.com/teclbitties/c20df45b-80c4-402c-9a25-56660e5499fe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/c20df45b-80c4-402c-9a25-56660e5499fe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c20df45b-80c4-402c-9a25-56660e5499fe-closing</guid>
+      <pubDate>Thu, 16 Jun 2022 14:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 teclbitties closed a short naked call on $SOXL expiring 2022-07-15</title>
+      <link>https://thetagang.com/teclbitties/ae6bcdd8-2947-4f6f-bab0-d39d9f5c7f60</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/ae6bcdd8-2947-4f6f-bab0-d39d9f5c7f60'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ae6bcdd8-2947-4f6f-bab0-d39d9f5c7f60-closing</guid>
+      <pubDate>Thu, 16 Jun 2022 14:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MES expiring 2022-07-08</title>
+      <link>https://thetagang.com/jrue/612ce3ec-7bc0-48b9-99a8-a4ad479116da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/612ce3ec-7bc0-48b9-99a8-a4ad479116da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">612ce3ec-7bc0-48b9-99a8-a4ad479116da-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 16:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MES expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/fef3042e-aaa6-405d-93a6-b900af20b09a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/fef3042e-aaa6-405d-93a6-b900af20b09a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fef3042e-aaa6-405d-93a6-b900af20b09a-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 16:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MES expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/7388b4b0-a2bd-4687-9f66-25ebdd1d6a15</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7388b4b0-a2bd-4687-9f66-25ebdd1d6a15'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7388b4b0-a2bd-4687-9f66-25ebdd1d6a15-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 16:27:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/dbe8e5bd-36b8-464b-a342-5ea4e688e32a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/dbe8e5bd-36b8-464b-a342-5ea4e688e32a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dbe8e5bd-36b8-464b-a342-5ea4e688e32a-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 16:28:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $RBLX expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/2c57e77a-9c7a-4e20-9ecf-b23817071abe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2c57e77a-9c7a-4e20-9ecf-b23817071abe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2c57e77a-9c7a-4e20-9ecf-b23817071abe-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 18:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-06-30</title>
+      <link>https://thetagang.com/jrue/4de22534-8918-4b3e-80fc-11a73c05092f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/4de22534-8918-4b3e-80fc-11a73c05092f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4de22534-8918-4b3e-80fc-11a73c05092f-opening</guid>
+      <pubDate>Thu, 16 Jun 2022 19:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $MSFT expiring 2022-06-17</title>
+      <link>https://thetagang.com/yueyanglu319/c3d860e7-b055-413b-a994-3ee3316440db</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/c3d860e7-b055-413b-a994-3ee3316440db'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c3d860e7-b055-413b-a994-3ee3316440db-closing</guid>
+      <pubDate>Fri, 17 Jun 2022 16:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-06-24</title>
+      <link>https://thetagang.com/yueyanglu319/82fa9740-ad30-4485-92fe-5122f6d3c937</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/82fa9740-ad30-4485-92fe-5122f6d3c937'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">82fa9740-ad30-4485-92fe-5122f6d3c937-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-06-24</title>
+      <link>https://thetagang.com/yueyanglu319/088bd05b-ad84-46e7-9189-872cbab8cf12</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/088bd05b-ad84-46e7-9189-872cbab8cf12'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">088bd05b-ad84-46e7-9189-872cbab8cf12-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:06:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TQQQ expiring 2022-07-29</title>
+      <link>https://thetagang.com/teclbitties/d96d657a-456e-4c1c-b691-5ca55c92b5bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/d96d657a-456e-4c1c-b691-5ca55c92b5bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d96d657a-456e-4c1c-b691-5ca55c92b5bd-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-07-29</title>
+      <link>https://thetagang.com/teclbitties/ad7ee841-6d19-47da-81fd-612a6de24a68</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/ad7ee841-6d19-47da-81fd-612a6de24a68'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad7ee841-6d19-47da-81fd-612a6de24a68-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $CCJ expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/2078431d-1577-4402-a531-17f0fd2adbbd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2078431d-1577-4402-a531-17f0fd2adbbd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2078431d-1577-4402-a531-17f0fd2adbbd-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $SOXL expiring 2022-07-29</title>
+      <link>https://thetagang.com/teclbitties/f515c208-b7ce-400f-b774-d82c4e72a55a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/f515c208-b7ce-400f-b774-d82c4e72a55a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f515c208-b7ce-400f-b774-d82c4e72a55a-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 16:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TQQQ expiring 2022-07-15</title>
+      <link>https://thetagang.com/teclbitties/cb2790c7-b510-4fe5-a9c8-ad51a29124c7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/cb2790c7-b510-4fe5-a9c8-ad51a29124c7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb2790c7-b510-4fe5-a9c8-ad51a29124c7-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 16:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $SPXL expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/a1a331c2-1722-4e34-a3d5-7e45c3dc5725</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/a1a331c2-1722-4e34-a3d5-7e45c3dc5725'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1a331c2-1722-4e34-a3d5-7e45c3dc5725-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 16:53:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-07-29</title>
+      <link>https://thetagang.com/teclbitties/a7c588c2-0047-4a67-974e-639927adeaff</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/a7c588c2-0047-4a67-974e-639927adeaff'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a7c588c2-0047-4a67-974e-639927adeaff-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 16:56:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $UDOW expiring 2022-07-15</title>
+      <link>https://thetagang.com/teclbitties/fcda4017-fa0a-4fb5-b913-9d7600ee1d08</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/fcda4017-fa0a-4fb5-b913-9d7600ee1d08'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fcda4017-fa0a-4fb5-b913-9d7600ee1d08-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 16:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $FAS expiring 2022-07-15</title>
+      <link>https://thetagang.com/teclbitties/92cc2a0f-219f-4f5e-911f-947c21cc56b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/92cc2a0f-219f-4f5e-911f-947c21cc56b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">92cc2a0f-219f-4f5e-911f-947c21cc56b6-opening</guid>
+      <pubDate>Tue, 21 Jun 2022 17:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Drum_Smith opened a short naked call on $KBH expiring 2022-07-15</title>
+      <link>https://thetagang.com/Drum_Smith/c9c8e9c4-9ab2-4f59-acb5-44faf88b3f98</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Drum_Smith/c9c8e9c4-9ab2-4f59-acb5-44faf88b3f98'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c9c8e9c4-9ab2-4f59-acb5-44faf88b3f98-opening</guid>
+      <pubDate>Wed, 22 Jun 2022 14:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short naked call on $NEGG expiring 2022-07-01</title>
+      <link>https://thetagang.com/antimeta/da72beb5-8ec8-47c4-99c4-b9b9cdb9c6a2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/da72beb5-8ec8-47c4-99c4-b9b9cdb9c6a2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da72beb5-8ec8-47c4-99c4-b9b9cdb9c6a2-opening</guid>
+      <pubDate>Wed, 22 Jun 2022 18:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ghostcipherink opened a short naked call on $XLE expiring 2022-07-15</title>
+      <link>https://thetagang.com/ghostcipherink/20060507-6b4a-458c-b9ff-1b79151dd15c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/20060507-6b4a-458c-b9ff-1b79151dd15c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">20060507-6b4a-458c-b9ff-1b79151dd15c-opening</guid>
+      <pubDate>Wed, 22 Jun 2022 18:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-01</title>
+      <link>https://thetagang.com/yueyanglu319/cf2b038f-42ed-42bd-ae4d-e2dd92b46f0b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/cf2b038f-42ed-42bd-ae4d-e2dd92b46f0b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cf2b038f-42ed-42bd-ae4d-e2dd92b46f0b-opening</guid>
+      <pubDate>Fri, 24 Jun 2022 13:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $CCL expiring 2022-07-29</title>
+      <link>https://thetagang.com/jrue/2228180d-d8ce-4a37-bfa6-218f5815112c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2228180d-d8ce-4a37-bfa6-218f5815112c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2228180d-d8ce-4a37-bfa6-218f5815112c-opening</guid>
+      <pubDate>Fri, 24 Jun 2022 14:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-01</title>
+      <link>https://thetagang.com/yueyanglu319/a6834a1e-9832-46bc-b790-8c7356a04e9e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/a6834a1e-9832-46bc-b790-8c7356a04e9e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a6834a1e-9832-46bc-b790-8c7356a04e9e-opening</guid>
+      <pubDate>Sat, 25 Jun 2022 22:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/8b6c81e0-a666-4ffc-a20d-e0d6e54ac4c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8b6c81e0-a666-4ffc-a20d-e0d6e54ac4c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b6c81e0-a666-4ffc-a20d-e0d6e54ac4c5-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 18:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $FL expiring 2022-07-22</title>
+      <link>https://thetagang.com/jrue/3f5c1dbe-598d-4780-ba54-38e96b2d1ce7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/3f5c1dbe-598d-4780-ba54-38e96b2d1ce7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3f5c1dbe-598d-4780-ba54-38e96b2d1ce7-opening</guid>
+      <pubDate>Wed, 29 Jun 2022 17:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ghostcipherink opened a short naked call on $XLE expiring 2022-07-22</title>
+      <link>https://thetagang.com/ghostcipherink/ba8f08c6-d83d-47ed-94b4-f4022470cae0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/ba8f08c6-d83d-47ed-94b4-f4022470cae0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba8f08c6-d83d-47ed-94b4-f4022470cae0-opening</guid>
+      <pubDate>Thu, 30 Jun 2022 17:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $FAS expiring 2022-08-05</title>
+      <link>https://thetagang.com/teclbitties/7e2a0f53-e462-4c5c-af5d-8a06fe6c68bb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/7e2a0f53-e462-4c5c-af5d-8a06fe6c68bb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e2a0f53-e462-4c5c-af5d-8a06fe6c68bb-opening</guid>
+      <pubDate>Fri, 01 Jul 2022 18:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-08</title>
+      <link>https://thetagang.com/yueyanglu319/16a4881c-6a98-4d79-8a82-9ef64190968f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/16a4881c-6a98-4d79-8a82-9ef64190968f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">16a4881c-6a98-4d79-8a82-9ef64190968f-opening</guid>
+      <pubDate>Sat, 02 Jul 2022 02:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $GLD expiring 2022-07-08</title>
+      <link>https://thetagang.com/yueyanglu319/4468a1f1-131e-4575-abe1-6e0a2bc15d38</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/4468a1f1-131e-4575-abe1-6e0a2bc15d38'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4468a1f1-131e-4575-abe1-6e0a2bc15d38-closing</guid>
+      <pubDate>Tue, 05 Jul 2022 15:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-08</title>
+      <link>https://thetagang.com/yueyanglu319/2dd9c700-55cc-4183-b606-7eab6ba47b81</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/2dd9c700-55cc-4183-b606-7eab6ba47b81'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2dd9c700-55cc-4183-b606-7eab6ba47b81-opening</guid>
+      <pubDate>Tue, 05 Jul 2022 15:28:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/jrue/291975e0-4adf-4665-b2a5-b1b5e087f461</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/291975e0-4adf-4665-b2a5-b1b5e087f461'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">291975e0-4adf-4665-b2a5-b1b5e087f461-opening</guid>
+      <pubDate>Tue, 05 Jul 2022 15:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a short naked call on $WSM expiring 2022-08-19</title>
+      <link>https://thetagang.com/Saxi/1d571f60-e8c7-4710-b3ed-7aaa9e4a2330</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/1d571f60-e8c7-4710-b3ed-7aaa9e4a2330'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1d571f60-e8c7-4710-b3ed-7aaa9e4a2330-opening</guid>
+      <pubDate>Tue, 05 Jul 2022 16:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a short naked call on $AMD expiring 2022-09-16</title>
+      <link>https://thetagang.com/ahart75/6f11a492-a711-4bf1-9bc0-11c847e91d3e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/6f11a492-a711-4bf1-9bc0-11c847e91d3e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6f11a492-a711-4bf1-9bc0-11c847e91d3e-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 15:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-08</title>
+      <link>https://thetagang.com/yueyanglu319/9136c24b-6e56-465d-93c7-3844df5e4931</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/9136c24b-6e56-465d-93c7-3844df5e4931'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9136c24b-6e56-465d-93c7-3844df5e4931-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 15:32:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/f1f75156-eaad-4598-a6d2-360dfb1a3d79</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/f1f75156-eaad-4598-a6d2-360dfb1a3d79'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1f75156-eaad-4598-a6d2-360dfb1a3d79-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 18:57:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ghostcipherink opened a short naked call on $AMZN expiring 2022-07-29</title>
+      <link>https://thetagang.com/ghostcipherink/40f783c0-5ea8-4734-a4a5-21101f7ed06a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/40f783c0-5ea8-4734-a4a5-21101f7ed06a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">40f783c0-5ea8-4734-a4a5-21101f7ed06a-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 02:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $CCL expiring 2022-07-29</title>
+      <link>https://thetagang.com/jrue/499799e2-0ab0-48d1-b4da-e0f4477f6e4b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/499799e2-0ab0-48d1-b4da-e0f4477f6e4b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">499799e2-0ab0-48d1-b4da-e0f4477f6e4b-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 14:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $SOXL expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/c0d160d9-29c7-4d43-8d56-0a2e27be311d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/c0d160d9-29c7-4d43-8d56-0a2e27be311d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c0d160d9-29c7-4d43-8d56-0a2e27be311d-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 14:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/d1f09934-c4f2-4383-9ad6-2b211bb365bd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/d1f09934-c4f2-4383-9ad6-2b211bb365bd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1f09934-c4f2-4383-9ad6-2b211bb365bd-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 14:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TQQQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/5e14a323-8ab3-4ee8-b022-79dea751c9f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/5e14a323-8ab3-4ee8-b022-79dea751c9f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5e14a323-8ab3-4ee8-b022-79dea751c9f2-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 14:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short naked call on $NEGG expiring 2022-07-15</title>
+      <link>https://thetagang.com/antimeta/ac00e8a9-a538-466b-b381-d5d8d75bb301</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/ac00e8a9-a538-466b-b381-d5d8d75bb301'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac00e8a9-a538-466b-b381-d5d8d75bb301-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 15:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $UPRO expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/3c139c22-b2cc-478b-af2a-2fa8b9dae928</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/3c139c22-b2cc-478b-af2a-2fa8b9dae928'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3c139c22-b2cc-478b-af2a-2fa8b9dae928-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 15:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $UDOW expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/fe763e99-58b1-4bea-a3e7-28339e49e010</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/fe763e99-58b1-4bea-a3e7-28339e49e010'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe763e99-58b1-4bea-a3e7-28339e49e010-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 15:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/866740f1-3884-4eb0-81b1-ddc7f20d9b30</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/866740f1-3884-4eb0-81b1-ddc7f20d9b30'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">866740f1-3884-4eb0-81b1-ddc7f20d9b30-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 16:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MES expiring 2022-08-12</title>
+      <link>https://thetagang.com/jrue/542f3520-441e-4319-83f0-6b4a4c5859fe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/542f3520-441e-4319-83f0-6b4a4c5859fe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">542f3520-441e-4319-83f0-6b4a4c5859fe-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 16:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bigrey opened a short naked call on $PLTR expiring 2022-07-29</title>
+      <link>https://thetagang.com/bigrey/80db1ea0-6346-40a8-8f76-38426281773f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bigrey/80db1ea0-6346-40a8-8f76-38426281773f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">80db1ea0-6346-40a8-8f76-38426281773f-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $SOXL expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/12777fc9-ac0c-4be7-a116-515050b6f24f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/12777fc9-ac0c-4be7-a116-515050b6f24f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">12777fc9-ac0c-4be7-a116-515050b6f24f-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 18:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $MSFT expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/d948173e-6809-40dc-aa89-4c1de61a6d18</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/d948173e-6809-40dc-aa89-4c1de61a6d18'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d948173e-6809-40dc-aa89-4c1de61a6d18-closing</guid>
+      <pubDate>Wed, 13 Jul 2022 20:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $PYPL expiring 2022-08-12</title>
+      <link>https://thetagang.com/jrue/73dd0983-e9cd-47bb-a4e1-7cb4bdc37924</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/73dd0983-e9cd-47bb-a4e1-7cb4bdc37924'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">73dd0983-e9cd-47bb-a4e1-7cb4bdc37924-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 18:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bigrey opened a short naked call on $PLTR expiring 2022-07-29</title>
+      <link>https://thetagang.com/bigrey/c981d6df-da5f-43df-9265-9ffda7a0b048</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bigrey/c981d6df-da5f-43df-9265-9ffda7a0b048'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c981d6df-da5f-43df-9265-9ffda7a0b048-opening</guid>
+      <pubDate>Thu, 14 Jul 2022 19:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 yueyanglu319 closed a short naked call on $MSFT expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/40094689-f7ca-47ce-8646-51884b125773</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/40094689-f7ca-47ce-8646-51884b125773'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">40094689-f7ca-47ce-8646-51884b125773-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:08:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/1ff50600-7f60-4c1c-944e-6a876d83d819</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/1ff50600-7f60-4c1c-944e-6a876d83d819'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1ff50600-7f60-4c1c-944e-6a876d83d819-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 13:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-15</title>
+      <link>https://thetagang.com/yueyanglu319/878234c2-e619-47db-9c1e-6eb7f9ad8234</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/878234c2-e619-47db-9c1e-6eb7f9ad8234'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">878234c2-e619-47db-9c1e-6eb7f9ad8234-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 13:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 quotidianautonomy opened a short naked call on $TWTR expiring 2022-08-19</title>
+      <link>https://thetagang.com/quotidianautonomy/57ea84a1-19fe-4892-b551-a60c32e2ddc8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/quotidianautonomy/57ea84a1-19fe-4892-b551-a60c32e2ddc8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57ea84a1-19fe-4892-b551-a60c32e2ddc8-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 18:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/1ffc3972-def0-43a7-a5f7-07a9d2c7c75d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/1ffc3972-def0-43a7-a5f7-07a9d2c7c75d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1ffc3972-def0-43a7-a5f7-07a9d2c7c75d-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 18:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $UPRO expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/e77f7850-ad26-4435-9b37-0c54cf52a4b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/e77f7850-ad26-4435-9b37-0c54cf52a4b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e77f7850-ad26-4435-9b37-0c54cf52a4b8-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 03:05:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 teclbitties closed a short naked call on $UPRO expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/1e2b9cfd-d71c-4872-9645-6a053595d23f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/1e2b9cfd-d71c-4872-9645-6a053595d23f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e2b9cfd-d71c-4872-9645-6a053595d23f-closing</guid>
+      <pubDate>Sat, 16 Jul 2022 03:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-22</title>
+      <link>https://thetagang.com/yueyanglu319/da62d2b4-ff96-4f60-b0be-1f2b3199037a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/da62d2b4-ff96-4f60-b0be-1f2b3199037a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da62d2b4-ff96-4f60-b0be-1f2b3199037a-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 18:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-22</title>
+      <link>https://thetagang.com/yueyanglu319/dcffc4b1-9fa3-43e7-9d84-666fff477f8f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/dcffc4b1-9fa3-43e7-9d84-666fff477f8f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dcffc4b1-9fa3-43e7-9d84-666fff477f8f-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 18:07:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/e4c7bb3b-9ffb-485c-9ceb-6a1d2af504af</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/e4c7bb3b-9ffb-485c-9ceb-6a1d2af504af'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e4c7bb3b-9ffb-485c-9ceb-6a1d2af504af-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 18:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $FAS expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/9bfad663-c254-4bee-9052-9339703c7a9f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/9bfad663-c254-4bee-9052-9339703c7a9f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9bfad663-c254-4bee-9052-9339703c7a9f-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 18:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TQQQ expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/57704d5d-124b-4c32-8ada-e8a80ec15d27</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/57704d5d-124b-4c32-8ada-e8a80ec15d27'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57704d5d-124b-4c32-8ada-e8a80ec15d27-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 18:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $SOXL expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/30feb0e2-ff4e-4514-b4a8-0650aa7dba7d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/30feb0e2-ff4e-4514-b4a8-0650aa7dba7d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30feb0e2-ff4e-4514-b4a8-0650aa7dba7d-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 15:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $UDOW expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/2df3afdc-bede-4da1-8bc1-8dd8429af3e3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/2df3afdc-bede-4da1-8bc1-8dd8429af3e3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2df3afdc-bede-4da1-8bc1-8dd8429af3e3-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 15:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TNA expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/838a18f0-0be8-42b0-8a14-bf313b7d1cc5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/838a18f0-0be8-42b0-8a14-bf313b7d1cc5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">838a18f0-0be8-42b0-8a14-bf313b7d1cc5-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $FAS expiring 2022-08-19</title>
+      <link>https://thetagang.com/teclbitties/34aee3b4-6e0a-47e8-b334-783795a252d2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/34aee3b4-6e0a-47e8-b334-783795a252d2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">34aee3b4-6e0a-47e8-b334-783795a252d2-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 16:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short naked call on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Reiku/d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d6aeb68b-7ca1-4b33-99b9-ca7d1b36dec7-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 17:58:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short naked call on $AMZN expiring 2022-08-19</title>
+      <link>https://thetagang.com/Reiku/905a9f38-1cfd-4dd0-b2e2-c10835c29c84</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/905a9f38-1cfd-4dd0-b2e2-c10835c29c84'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">905a9f38-1cfd-4dd0-b2e2-c10835c29c84-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 17:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 StanHalen opened a short naked call on $SPY expiring 2022-07-20</title>
+      <link>https://thetagang.com/StanHalen/769354ec-ef02-4d22-99fb-270b614f2613</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StanHalen/769354ec-ef02-4d22-99fb-270b614f2613'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">769354ec-ef02-4d22-99fb-270b614f2613-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 StanHalen opened a short naked call on $AMZN expiring 2022-07-22</title>
+      <link>https://thetagang.com/StanHalen/0aaa43f1-4b01-46e6-b913-62b84d94e922</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StanHalen/0aaa43f1-4b01-46e6-b913-62b84d94e922'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0aaa43f1-4b01-46e6-b913-62b84d94e922-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 StanHalen opened a short naked call on $SPY expiring 2022-07-20</title>
+      <link>https://thetagang.com/StanHalen/7e14192b-3043-4764-b0f6-fe219871ff46</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StanHalen/7e14192b-3043-4764-b0f6-fe219871ff46'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e14192b-3043-4764-b0f6-fe219871ff46-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 19:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ghostcipherink opened a short naked call on $XLE expiring 2022-08-19</title>
+      <link>https://thetagang.com/ghostcipherink/bdc9666e-04f4-48ce-9987-e5545330c350</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/bdc9666e-04f4-48ce-9987-e5545330c350'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bdc9666e-04f4-48ce-9987-e5545330c350-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 14:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short naked call on $NEGG expiring 2022-07-29</title>
+      <link>https://thetagang.com/antimeta/413a38b2-3b8f-4418-b3af-b680cb01ea6d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/413a38b2-3b8f-4418-b3af-b680cb01ea6d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">413a38b2-3b8f-4418-b3af-b680cb01ea6d-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 15:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 teclbitties opened a short naked call on $TQQQ expiring 2022-08-26</title>
+      <link>https://thetagang.com/teclbitties/f7f23daa-54e5-4c12-834f-b2ef382f2d64</link>
+      <description>For more details, &lt;a href='https://thetagang.com/teclbitties/f7f23daa-54e5-4c12-834f-b2ef382f2d64'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f7f23daa-54e5-4c12-834f-b2ef382f2d64-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 19:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short naked call on $/MNQ expiring 2022-08-31</title>
+      <link>https://thetagang.com/jrue/c39bdbcd-8464-4859-9036-4796516664b3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c39bdbcd-8464-4859-9036-4796516664b3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c39bdbcd-8464-4859-9036-4796516664b3-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 manhphuho closed a short naked call on $NVDA expiring 2022-08-19</title>
+      <link>https://thetagang.com/manhphuho/8fcb5ea5-05e5-4d61-99a0-ac5bd75a266d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/manhphuho/8fcb5ea5-05e5-4d61-99a0-ac5bd75a266d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8fcb5ea5-05e5-4d61-99a0-ac5bd75a266d-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 15:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a short naked call on $SPY expiring 2022-09-16</title>
+      <link>https://thetagang.com/ahart75/172fbc0d-ca0b-45ff-8471-864656a872ed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/172fbc0d-ca0b-45ff-8471-864656a872ed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">172fbc0d-ca0b-45ff-8471-864656a872ed-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 18:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short naked call on $LI expiring 2022-08-18</title>
+      <link>https://thetagang.com/Akane/bcf9b13c-1a5d-4eeb-8b2e-07cdbe9fe352</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/bcf9b13c-1a5d-4eeb-8b2e-07cdbe9fe352'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bcf9b13c-1a5d-4eeb-8b2e-07cdbe9fe352-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 19:27:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $MSFT expiring 2022-07-29</title>
+      <link>https://thetagang.com/yueyanglu319/259452d4-ae44-4694-a313-9d04f29c743e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/259452d4-ae44-4694-a313-9d04f29c743e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">259452d4-ae44-4694-a313-9d04f29c743e-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:47:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short naked call on $GLD expiring 2022-07-29</title>
+      <link>https://thetagang.com/yueyanglu319/09cbce62-7292-43e0-a669-48f652f0fe5e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/09cbce62-7292-43e0-a669-48f652f0fe5e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">09cbce62-7292-43e0-a669-48f652f0fe5e-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:48:18 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

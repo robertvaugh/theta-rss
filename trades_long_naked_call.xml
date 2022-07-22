@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only long naked call trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only long naked call trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 23:54:58 +0000</lastBuildDate>
+    <item>
+      <title>🌅 ghostcipherink opened a long naked call on $XLE expiring 2022-08-19</title>
+      <link>https://thetagang.com/ghostcipherink/127c350d-de3d-450b-a93c-5aefcdadffa6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/127c350d-de3d-450b-a93c-5aefcdadffa6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">127c350d-de3d-450b-a93c-5aefcdadffa6-opening</guid>
+      <pubDate>Wed, 22 Jun 2022 18:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Knoschp opened a long naked call on $TSLA expiring 2022-06-23</title>
+      <link>https://thetagang.com/Knoschp/7f9ea5c9-9ad9-4d39-a5cb-8382c01a2930</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Knoschp/7f9ea5c9-9ad9-4d39-a5cb-8382c01a2930'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7f9ea5c9-9ad9-4d39-a5cb-8382c01a2930-opening</guid>
+      <pubDate>Wed, 22 Jun 2022 19:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-07-01</title>
+      <link>https://thetagang.com/j1a/b1471e49-799c-434d-9f74-e47c27a863ae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/b1471e49-799c-434d-9f74-e47c27a863ae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b1471e49-799c-434d-9f74-e47c27a863ae-closing</guid>
+      <pubDate>Thu, 23 Jun 2022 15:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 j1a opened a long naked call on $GLD expiring 2022-07-15</title>
+      <link>https://thetagang.com/j1a/9eb2fa7c-1fef-4c30-8ee9-13551adeebb4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/9eb2fa7c-1fef-4c30-8ee9-13551adeebb4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9eb2fa7c-1fef-4c30-8ee9-13551adeebb4-opening</guid>
+      <pubDate>Thu, 23 Jun 2022 15:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $PTRA expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/962e2988-55d5-40ed-ad63-f1565035fe7e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/962e2988-55d5-40ed-ad63-f1565035fe7e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">962e2988-55d5-40ed-ad63-f1565035fe7e-opening</guid>
+      <pubDate>Thu, 23 Jun 2022 21:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-06-24</title>
+      <link>https://thetagang.com/j1a/e9581093-9669-4c1b-9f56-9e077fbf4d6a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/e9581093-9669-4c1b-9f56-9e077fbf4d6a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e9581093-9669-4c1b-9f56-9e077fbf4d6a-closing</guid>
+      <pubDate>Thu, 23 Jun 2022 22:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $QQQ expiring 2022-06-24</title>
+      <link>https://thetagang.com/j1a/c3c2efdb-e443-4c27-b49d-7c3bb0defc18</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/c3c2efdb-e443-4c27-b49d-7c3bb0defc18'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c3c2efdb-e443-4c27-b49d-7c3bb0defc18-closing</guid>
+      <pubDate>Fri, 24 Jun 2022 18:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $QQQ expiring 2022-06-24</title>
+      <link>https://thetagang.com/j1a/3001bf74-76c8-457a-9356-a961c937d83f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/3001bf74-76c8-457a-9356-a961c937d83f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3001bf74-76c8-457a-9356-a961c937d83f-closing</guid>
+      <pubDate>Sat, 25 Jun 2022 00:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $SPY expiring 2022-06-27</title>
+      <link>https://thetagang.com/ItchyBoiii/22c8ce84-555e-4a13-9ffa-9bd9442c56ee</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/22c8ce84-555e-4a13-9ffa-9bd9442c56ee'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">22c8ce84-555e-4a13-9ffa-9bd9442c56ee-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 15:46:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $AAPL expiring 2022-07-01</title>
+      <link>https://thetagang.com/ItchyBoiii/dc4782b4-6eb5-4e52-9cfe-c444a1b0878f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/dc4782b4-6eb5-4e52-9cfe-c444a1b0878f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc4782b4-6eb5-4e52-9cfe-c444a1b0878f-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 15:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $SPY expiring 2022-06-27</title>
+      <link>https://thetagang.com/ItchyBoiii/2e7b0a97-332b-4fd7-9a96-09f5c506bf90</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/2e7b0a97-332b-4fd7-9a96-09f5c506bf90'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2e7b0a97-332b-4fd7-9a96-09f5c506bf90-opening</guid>
+      <pubDate>Mon, 27 Jun 2022 15:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-07-08</title>
+      <link>https://thetagang.com/j1a/6065b2cf-63dd-4cd5-b89d-a7fc67fd01ef</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/6065b2cf-63dd-4cd5-b89d-a7fc67fd01ef'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6065b2cf-63dd-4cd5-b89d-a7fc67fd01ef-closing</guid>
+      <pubDate>Mon, 27 Jun 2022 18:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 acpbeats closed a long naked call on $SPY expiring 2022-06-29</title>
+      <link>https://thetagang.com/acpbeats/c627656c-fee6-4fab-8a28-cd0e80cdb792</link>
+      <description>For more details, &lt;a href='https://thetagang.com/acpbeats/c627656c-fee6-4fab-8a28-cd0e80cdb792'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c627656c-fee6-4fab-8a28-cd0e80cdb792-closing</guid>
+      <pubDate>Tue, 28 Jun 2022 04:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $IVR expiring 2022-07-01</title>
+      <link>https://thetagang.com/mehmehmeh/5740907b-7c4c-4e70-b88a-7e84c27b5492</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/5740907b-7c4c-4e70-b88a-7e84c27b5492'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5740907b-7c4c-4e70-b88a-7e84c27b5492-closing</guid>
+      <pubDate>Tue, 28 Jun 2022 13:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $PTRA expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/7c8bd189-0a87-4e99-adeb-a9f0d7a25d32</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/7c8bd189-0a87-4e99-adeb-a9f0d7a25d32'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7c8bd189-0a87-4e99-adeb-a9f0d7a25d32-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 21:36:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $CLSK expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/a91748e7-9fd8-4aac-8c0b-de26008b5888</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/a91748e7-9fd8-4aac-8c0b-de26008b5888'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a91748e7-9fd8-4aac-8c0b-de26008b5888-opening</guid>
+      <pubDate>Tue, 28 Jun 2022 21:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $XOM expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/9ef50ffe-5f68-4e58-987c-b81c358f8d23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/9ef50ffe-5f68-4e58-987c-b81c358f8d23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ef50ffe-5f68-4e58-987c-b81c358f8d23-closing</guid>
+      <pubDate>Wed, 29 Jun 2022 14:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 lbn_2111 closed a long naked call on $SPXW expiring 2022-06-29</title>
+      <link>https://thetagang.com/lbn_2111/35103766-e7d6-49ef-a929-5b8d33c71a7e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lbn_2111/35103766-e7d6-49ef-a929-5b8d33c71a7e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">35103766-e7d6-49ef-a929-5b8d33c71a7e-closing</guid>
+      <pubDate>Wed, 29 Jun 2022 17:43:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-07-08</title>
+      <link>https://thetagang.com/j1a/2162e82f-77a8-4797-a65a-1d2d1c986b09</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/2162e82f-77a8-4797-a65a-1d2d1c986b09'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2162e82f-77a8-4797-a65a-1d2d1c986b09-closing</guid>
+      <pubDate>Wed, 29 Jun 2022 18:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $XOM expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/2c1fc0d5-2bc0-4f11-99a9-83cce67d393b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/2c1fc0d5-2bc0-4f11-99a9-83cce67d393b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2c1fc0d5-2bc0-4f11-99a9-83cce67d393b-opening</guid>
+      <pubDate>Wed, 29 Jun 2022 23:17:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $PTRA expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/037fee18-a82a-48ab-91a6-3f41e1a98026</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/037fee18-a82a-48ab-91a6-3f41e1a98026'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">037fee18-a82a-48ab-91a6-3f41e1a98026-opening</guid>
+      <pubDate>Thu, 30 Jun 2022 01:37:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $CLSK expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/be9bf7b8-5fe5-4d7e-b6e1-20621abfee61</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/be9bf7b8-5fe5-4d7e-b6e1-20621abfee61'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">be9bf7b8-5fe5-4d7e-b6e1-20621abfee61-opening</guid>
+      <pubDate>Thu, 30 Jun 2022 01:38:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-06-30</title>
+      <link>https://thetagang.com/ItchyBoiii/0dacf6d1-d90b-4aab-b6d6-88343b4396a3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/0dacf6d1-d90b-4aab-b6d6-88343b4396a3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0dacf6d1-d90b-4aab-b6d6-88343b4396a3-closing</guid>
+      <pubDate>Thu, 30 Jun 2022 16:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-07-01</title>
+      <link>https://thetagang.com/j1a/c60d76ce-f16b-440b-b4b1-06a9c147ea71</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/c60d76ce-f16b-440b-b4b1-06a9c147ea71'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c60d76ce-f16b-440b-b4b1-06a9c147ea71-closing</guid>
+      <pubDate>Thu, 30 Jun 2022 23:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jackey1984 closed a long naked call on $TSLA expiring 2022-06-30</title>
+      <link>https://thetagang.com/jackey1984/aff388d4-8954-4153-96ec-ab0a6b2978e9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jackey1984/aff388d4-8954-4153-96ec-ab0a6b2978e9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aff388d4-8954-4153-96ec-ab0a6b2978e9-closing</guid>
+      <pubDate>Fri, 01 Jul 2022 14:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $XOM expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/2bc9801f-eed4-4d9e-a6cb-1d41143817e0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/2bc9801f-eed4-4d9e-a6cb-1d41143817e0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2bc9801f-eed4-4d9e-a6cb-1d41143817e0-opening</guid>
+      <pubDate>Fri, 01 Jul 2022 14:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $XOM expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/7a8515b6-5492-474f-98fd-94b8d6761688</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/7a8515b6-5492-474f-98fd-94b8d6761688'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7a8515b6-5492-474f-98fd-94b8d6761688-opening</guid>
+      <pubDate>Fri, 01 Jul 2022 18:52:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-01</title>
+      <link>https://thetagang.com/ItchyBoiii/a6878d75-3330-48ae-949d-e9e89a824487</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/a6878d75-3330-48ae-949d-e9e89a824487'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a6878d75-3330-48ae-949d-e9e89a824487-closing</guid>
+      <pubDate>Fri, 01 Jul 2022 18:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Lisa_Anne_Pool_Boy opened a long naked call on $AMZN expiring 2023-01-20</title>
+      <link>https://thetagang.com/Lisa_Anne_Pool_Boy/23827bfb-a020-4c38-9063-f06438b834b0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Lisa_Anne_Pool_Boy/23827bfb-a020-4c38-9063-f06438b834b0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">23827bfb-a020-4c38-9063-f06438b834b0-opening</guid>
+      <pubDate>Tue, 05 Jul 2022 15:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ninetoe opened a long naked call on $META expiring 2022-07-14</title>
+      <link>https://thetagang.com/Ninetoe/651efdb5-4afd-4cf2-b658-0c3edb1546c1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/651efdb5-4afd-4cf2-b658-0c3edb1546c1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">651efdb5-4afd-4cf2-b658-0c3edb1546c1-opening</guid>
+      <pubDate>Tue, 05 Jul 2022 19:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 PAFbib closed a long naked call on $SPY expiring 2022-07-08</title>
+      <link>https://thetagang.com/PAFbib/2c09d31c-5b24-4817-959e-d6c2f404a4a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/PAFbib/2c09d31c-5b24-4817-959e-d6c2f404a4a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2c09d31c-5b24-4817-959e-d6c2f404a4a1-closing</guid>
+      <pubDate>Tue, 05 Jul 2022 20:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jyama opened a long naked call on $BBBY expiring 2023-01-20</title>
+      <link>https://thetagang.com/jyama/eb007431-8a41-4418-b972-bc99c99a5e96</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/eb007431-8a41-4418-b972-bc99c99a5e96'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eb007431-8a41-4418-b972-bc99c99a5e96-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 00:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-06</title>
+      <link>https://thetagang.com/ItchyBoiii/9f0719d1-1831-4fc2-bdbc-76152c0dddeb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/9f0719d1-1831-4fc2-bdbc-76152c0dddeb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9f0719d1-1831-4fc2-bdbc-76152c0dddeb-closing</guid>
+      <pubDate>Wed, 06 Jul 2022 13:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $LVS expiring 2022-07-15</title>
+      <link>https://thetagang.com/TCB47/8bdc880a-7cad-4d22-b134-908dc4c2f4a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/8bdc880a-7cad-4d22-b134-908dc4c2f4a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8bdc880a-7cad-4d22-b134-908dc4c2f4a1-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 13:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $XOM expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/77d0432c-28da-408c-97d8-91c25ac5b9c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/77d0432c-28da-408c-97d8-91c25ac5b9c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">77d0432c-28da-408c-97d8-91c25ac5b9c2-closing</guid>
+      <pubDate>Wed, 06 Jul 2022 14:23:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jyama closed a long naked call on $SOXL expiring 2022-07-22</title>
+      <link>https://thetagang.com/jyama/3546e13d-b472-44ed-9826-3bb760ab05e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/3546e13d-b472-44ed-9826-3bb760ab05e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3546e13d-b472-44ed-9826-3bb760ab05e8-closing</guid>
+      <pubDate>Wed, 06 Jul 2022 14:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a long naked call on $AMD expiring 2024-01-19</title>
+      <link>https://thetagang.com/ahart75/bc3ea249-01b4-4b1e-a7ae-368b783e408d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/bc3ea249-01b4-4b1e-a7ae-368b783e408d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bc3ea249-01b4-4b1e-a7ae-368b783e408d-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 14:59:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Kepb opened a long naked call on $SOFI expiring 2022-07-22</title>
+      <link>https://thetagang.com/Kepb/7a570845-33f6-43c5-a101-e5f70177145b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Kepb/7a570845-33f6-43c5-a101-e5f70177145b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7a570845-33f6-43c5-a101-e5f70177145b-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 15:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 PAFbib opened a long naked call on $BCRX expiring 2022-09-16</title>
+      <link>https://thetagang.com/PAFbib/ea81d92b-5e30-47d5-8dc3-c959f6869a99</link>
+      <description>For more details, &lt;a href='https://thetagang.com/PAFbib/ea81d92b-5e30-47d5-8dc3-c959f6869a99'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea81d92b-5e30-47d5-8dc3-c959f6869a99-opening</guid>
+      <pubDate>Wed, 06 Jul 2022 15:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Burnttoast closed a long naked call on $QQQ expiring 2022-07-06</title>
+      <link>https://thetagang.com/Burnttoast/7d778c9f-e5ca-490b-b16c-09f9ddfc5c78</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/7d778c9f-e5ca-490b-b16c-09f9ddfc5c78'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d778c9f-e5ca-490b-b16c-09f9ddfc5c78-closing</guid>
+      <pubDate>Wed, 06 Jul 2022 20:24:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 squareroot opened a long naked call on $ARKK expiring 2023-01-19</title>
+      <link>https://thetagang.com/squareroot/e8414be3-7f8e-4612-b800-2bc54163dafd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/squareroot/e8414be3-7f8e-4612-b800-2bc54163dafd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e8414be3-7f8e-4612-b800-2bc54163dafd-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 12:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jyama closed a long naked call on $AMD expiring 2022-07-29</title>
+      <link>https://thetagang.com/jyama/83c8183a-c99b-490d-ac78-f78c843df53f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/83c8183a-c99b-490d-ac78-f78c843df53f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">83c8183a-c99b-490d-ac78-f78c843df53f-closing</guid>
+      <pubDate>Thu, 07 Jul 2022 13:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jyama closed a long naked call on $MO expiring 2022-07-15</title>
+      <link>https://thetagang.com/jyama/220dbb42-404d-4813-a702-fb96c800fe57</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/220dbb42-404d-4813-a702-fb96c800fe57'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">220dbb42-404d-4813-a702-fb96c800fe57-closing</guid>
+      <pubDate>Thu, 07 Jul 2022 13:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 PAFbib opened a long naked call on $SOFI expiring 2022-08-19</title>
+      <link>https://thetagang.com/PAFbib/aa5c4925-4398-47c6-9e28-12d2f38b5a78</link>
+      <description>For more details, &lt;a href='https://thetagang.com/PAFbib/aa5c4925-4398-47c6-9e28-12d2f38b5a78'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aa5c4925-4398-47c6-9e28-12d2f38b5a78-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 15:27:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 antimeta closed a long naked call on $AMD expiring 2022-08-19</title>
+      <link>https://thetagang.com/antimeta/c2e58897-b6e2-4236-9eb9-9f7d8618e5f4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/c2e58897-b6e2-4236-9eb9-9f7d8618e5f4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c2e58897-b6e2-4236-9eb9-9f7d8618e5f4-closing</guid>
+      <pubDate>Thu, 07 Jul 2022 17:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $BITO expiring 2022-08-19</title>
+      <link>https://thetagang.com/TCB47/89fdf746-b7c4-480e-896a-fb1e623bc9fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/89fdf746-b7c4-480e-896a-fb1e623bc9fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">89fdf746-b7c4-480e-896a-fb1e623bc9fd-opening</guid>
+      <pubDate>Thu, 07 Jul 2022 19:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TCB47 closed a long naked call on $GDX expiring 2022-08-12</title>
+      <link>https://thetagang.com/TCB47/af0700fc-00b1-4bae-9d1c-33c0279cfcc0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/af0700fc-00b1-4bae-9d1c-33c0279cfcc0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af0700fc-00b1-4bae-9d1c-33c0279cfcc0-closing</guid>
+      <pubDate>Thu, 07 Jul 2022 19:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $SPY expiring 2022-07-08</title>
+      <link>https://thetagang.com/ItchyBoiii/d77ffaa7-2005-402b-a33a-82bb61c49061</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/d77ffaa7-2005-402b-a33a-82bb61c49061'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d77ffaa7-2005-402b-a33a-82bb61c49061-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 13:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $BITO expiring 2022-08-19</title>
+      <link>https://thetagang.com/TCB47/6bc1a1aa-c04f-4715-811d-5a1326f41b26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/6bc1a1aa-c04f-4715-811d-5a1326f41b26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6bc1a1aa-c04f-4715-811d-5a1326f41b26-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 14:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jyama closed a long naked call on $TTD expiring 2022-07-29</title>
+      <link>https://thetagang.com/jyama/cc7c06a7-440c-4c24-a2ea-c0723b4dd049</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/cc7c06a7-440c-4c24-a2ea-c0723b4dd049'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cc7c06a7-440c-4c24-a2ea-c0723b4dd049-closing</guid>
+      <pubDate>Fri, 08 Jul 2022 15:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jyama opened a long naked call on $GLD expiring 2022-08-12</title>
+      <link>https://thetagang.com/jyama/5a736432-6b46-439b-97f5-cf396e6dfaeb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jyama/5a736432-6b46-439b-97f5-cf396e6dfaeb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a736432-6b46-439b-97f5-cf396e6dfaeb-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 15:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-08</title>
+      <link>https://thetagang.com/ItchyBoiii/a4769278-b679-41d4-a306-52a9e817d7d2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/a4769278-b679-41d4-a306-52a9e817d7d2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a4769278-b679-41d4-a306-52a9e817d7d2-closing</guid>
+      <pubDate>Fri, 08 Jul 2022 15:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $GDX expiring 2022-08-12</title>
+      <link>https://thetagang.com/TCB47/8345c86a-d029-4ffb-9078-2d597d2965f6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/8345c86a-d029-4ffb-9078-2d597d2965f6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8345c86a-d029-4ffb-9078-2d597d2965f6-opening</guid>
+      <pubDate>Fri, 08 Jul 2022 17:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $SRG expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/c77a8d63-c835-4cec-9f23-3d586303403f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/c77a8d63-c835-4cec-9f23-3d586303403f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c77a8d63-c835-4cec-9f23-3d586303403f-opening</guid>
+      <pubDate>Sat, 09 Jul 2022 00:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $MARA expiring 2022-07-15</title>
+      <link>https://thetagang.com/ItchyBoiii/3ef39753-c866-4d11-be7e-0627c62aa472</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/3ef39753-c866-4d11-be7e-0627c62aa472'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3ef39753-c866-4d11-be7e-0627c62aa472-opening</guid>
+      <pubDate>Sat, 09 Jul 2022 07:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a long naked call on $SPX expiring 2022-07-11</title>
+      <link>https://thetagang.com/Reiku/150c45d3-9ed1-4f02-a9ee-284a95007803</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/150c45d3-9ed1-4f02-a9ee-284a95007803'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">150c45d3-9ed1-4f02-a9ee-284a95007803-closing</guid>
+      <pubDate>Mon, 11 Jul 2022 02:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ninetoe opened a long naked call on $FREY expiring 2022-10-20</title>
+      <link>https://thetagang.com/Ninetoe/9669a88f-7d99-4c71-8dfc-44fda77e1ae3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/9669a88f-7d99-4c71-8dfc-44fda77e1ae3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9669a88f-7d99-4c71-8dfc-44fda77e1ae3-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 14:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Knoschp closed a long naked call on $AMZN expiring 2022-07-14</title>
+      <link>https://thetagang.com/Knoschp/c9065598-5008-4ced-88dc-2d91e456b069</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Knoschp/c9065598-5008-4ced-88dc-2d91e456b069'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c9065598-5008-4ced-88dc-2d91e456b069-closing</guid>
+      <pubDate>Mon, 11 Jul 2022 16:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $CHPT expiring 2022-08-05</title>
+      <link>https://thetagang.com/ItchyBoiii/1885d9c0-6eca-4d79-af12-429fbf94192b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/1885d9c0-6eca-4d79-af12-429fbf94192b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1885d9c0-6eca-4d79-af12-429fbf94192b-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 18:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $PTRA expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/0ed4fe0b-65e4-4053-96d9-863c445d8358</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/0ed4fe0b-65e4-4053-96d9-863c445d8358'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0ed4fe0b-65e4-4053-96d9-863c445d8358-opening</guid>
+      <pubDate>Mon, 11 Jul 2022 20:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ItchyBoiii opened a long naked call on $CTXS expiring 2022-07-15</title>
+      <link>https://thetagang.com/ItchyBoiii/202ab5d9-ed83-490a-836e-452e9147a599</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/202ab5d9-ed83-490a-836e-452e9147a599'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">202ab5d9-ed83-490a-836e-452e9147a599-opening</guid>
+      <pubDate>Tue, 12 Jul 2022 16:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-11</title>
+      <link>https://thetagang.com/ItchyBoiii/ff305445-3347-45e0-90c5-d5a43695cdb2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/ff305445-3347-45e0-90c5-d5a43695cdb2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff305445-3347-45e0-90c5-d5a43695cdb2-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 20:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-11</title>
+      <link>https://thetagang.com/ItchyBoiii/f1919a1f-29cf-4794-a38d-361d77156300</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/f1919a1f-29cf-4794-a38d-361d77156300'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f1919a1f-29cf-4794-a38d-361d77156300-closing</guid>
+      <pubDate>Tue, 12 Jul 2022 20:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bigrey opened a long naked call on $PLTR expiring 2023-03-17</title>
+      <link>https://thetagang.com/bigrey/ad2d6764-853b-4622-a159-e511541c4463</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bigrey/ad2d6764-853b-4622-a159-e511541c4463'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad2d6764-853b-4622-a159-e511541c4463-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 07:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 anonymousmog opened a long naked call on $CLSK expiring 2024-01-19</title>
+      <link>https://thetagang.com/anonymousmog/1a3fd1d0-209e-4b64-b7f9-012b8a7aaa56</link>
+      <description>For more details, &lt;a href='https://thetagang.com/anonymousmog/1a3fd1d0-209e-4b64-b7f9-012b8a7aaa56'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1a3fd1d0-209e-4b64-b7f9-012b8a7aaa56-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 11:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a long naked call on $DBD expiring 2022-11-18</title>
+      <link>https://thetagang.com/jrue/1a21ded9-0436-4965-a6ad-c189b1618b47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/1a21ded9-0436-4965-a6ad-c189b1618b47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1a21ded9-0436-4965-a6ad-c189b1618b47-opening</guid>
+      <pubDate>Wed, 13 Jul 2022 19:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $TH expiring 2022-07-15</title>
+      <link>https://thetagang.com/mehmehmeh/c1ca38c2-c4f9-483c-b4c6-a9f94e8d9983</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/c1ca38c2-c4f9-483c-b4c6-a9f94e8d9983'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c1ca38c2-c4f9-483c-b4c6-a9f94e8d9983-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 13:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-14</title>
+      <link>https://thetagang.com/ItchyBoiii/92c4d21d-9986-416d-99b1-21a16dbcf2c5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/92c4d21d-9986-416d-99b1-21a16dbcf2c5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">92c4d21d-9986-416d-99b1-21a16dbcf2c5-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 16:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/ItchyBoiii/8977d716-4952-4436-a20d-5bb07520650f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/8977d716-4952-4436-a20d-5bb07520650f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8977d716-4952-4436-a20d-5bb07520650f-closing</guid>
+      <pubDate>Thu, 14 Jul 2022 18:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Ninetoe closed a long naked call on $SPY expiring 2022-07-14</title>
+      <link>https://thetagang.com/Ninetoe/c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c22a61fd-9ddd-42f3-9c05-8b8fd4b12ff1-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 13:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $AAPL expiring 2022-07-22</title>
+      <link>https://thetagang.com/TCB47/9f726967-d21a-4d18-90bc-1b5c0dbb0814</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/9f726967-d21a-4d18-90bc-1b5c0dbb0814'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9f726967-d21a-4d18-90bc-1b5c0dbb0814-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 14:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $AAPL expiring 2022-07-22</title>
+      <link>https://thetagang.com/TCB47/8b56deaa-f39a-4b94-a592-67767adcf508</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/8b56deaa-f39a-4b94-a592-67767adcf508'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b56deaa-f39a-4b94-a592-67767adcf508-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 14:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 HeavyDD7 closed a long naked call on $SPY expiring 2022-07-29</title>
+      <link>https://thetagang.com/HeavyDD7/5efd8cbe-076c-48d4-b7dc-1fbad6b4c005</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HeavyDD7/5efd8cbe-076c-48d4-b7dc-1fbad6b4c005'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5efd8cbe-076c-48d4-b7dc-1fbad6b4c005-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 14:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ninetoe opened a long naked call on $JMIA expiring 2024-01-18</title>
+      <link>https://thetagang.com/Ninetoe/aee9f3a0-be26-4e97-9f40-f8abd69cc8e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/aee9f3a0-be26-4e97-9f40-f8abd69cc8e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aee9f3a0-be26-4e97-9f40-f8abd69cc8e7-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 17:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $BAC expiring 2022-07-22</title>
+      <link>https://thetagang.com/TCB47/8aaef16e-ccb7-4785-b185-0c83074b0af0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/8aaef16e-ccb7-4785-b185-0c83074b0af0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8aaef16e-ccb7-4785-b185-0c83074b0af0-opening</guid>
+      <pubDate>Fri, 15 Jul 2022 17:43:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 ItchyBoiii closed a long naked call on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/ItchyBoiii/cfa464f7-86c6-4e79-af1e-40027798bba0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ItchyBoiii/cfa464f7-86c6-4e79-af1e-40027798bba0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cfa464f7-86c6-4e79-af1e-40027798bba0-closing</guid>
+      <pubDate>Fri, 15 Jul 2022 19:09:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ButDoesItWheel opened a long naked call on $VLD expiring 2023-02-17</title>
+      <link>https://thetagang.com/ButDoesItWheel/a1f618fe-49cb-4c6a-b6c5-fc3d97266c8d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ButDoesItWheel/a1f618fe-49cb-4c6a-b6c5-fc3d97266c8d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1f618fe-49cb-4c6a-b6c5-fc3d97266c8d-opening</guid>
+      <pubDate>Sat, 16 Jul 2022 23:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $UVXY expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/6070b424-279b-4d74-9cdc-a60d434d5c2e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/6070b424-279b-4d74-9cdc-a60d434d5c2e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6070b424-279b-4d74-9cdc-a60d434d5c2e-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 13:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $BABA expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/b2954c57-007a-4d14-a488-004126cbfa0e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/b2954c57-007a-4d14-a488-004126cbfa0e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b2954c57-007a-4d14-a488-004126cbfa0e-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 13:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Bwach16 closed a long naked call on $SOFI expiring 2022-07-22</title>
+      <link>https://thetagang.com/Bwach16/a952e25b-b637-4780-9e2f-b9e08b5999ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/a952e25b-b637-4780-9e2f-b9e08b5999ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a952e25b-b637-4780-9e2f-b9e08b5999ce-closing</guid>
+      <pubDate>Mon, 18 Jul 2022 13:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Ninetoe opened a long naked call on $EVFM expiring 2022-08-18</title>
+      <link>https://thetagang.com/Ninetoe/55870868-609d-44ac-9640-76e188578812</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Ninetoe/55870868-609d-44ac-9640-76e188578812'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">55870868-609d-44ac-9640-76e188578812-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 14:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $GOOGL expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/bae7b8a2-de96-48e0-bf77-47c8b8d942c7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/bae7b8a2-de96-48e0-bf77-47c8b8d942c7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bae7b8a2-de96-48e0-bf77-47c8b8d942c7-opening</guid>
+      <pubDate>Mon, 18 Jul 2022 20:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 PAFbib opened a long naked call on $BCRX expiring 2022-08-19</title>
+      <link>https://thetagang.com/PAFbib/4a9e7e46-53d1-4c6e-9ca0-c97e22fd3461</link>
+      <description>For more details, &lt;a href='https://thetagang.com/PAFbib/4a9e7e46-53d1-4c6e-9ca0-c97e22fd3461'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4a9e7e46-53d1-4c6e-9ca0-c97e22fd3461-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 01:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $SQQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/cab45147-46a7-40c1-8c02-82be993613cf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/cab45147-46a7-40c1-8c02-82be993613cf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cab45147-46a7-40c1-8c02-82be993613cf-closing</guid>
+      <pubDate>Tue, 19 Jul 2022 13:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a long naked call on $DIA expiring 2022-08-12</title>
+      <link>https://thetagang.com/TCB47/33a39851-d6d6-42ad-9ae6-996c61b72f23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/33a39851-d6d6-42ad-9ae6-996c61b72f23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">33a39851-d6d6-42ad-9ae6-996c61b72f23-opening</guid>
+      <pubDate>Tue, 19 Jul 2022 18:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $QQQ expiring 2022-07-20</title>
+      <link>https://thetagang.com/mehmehmeh/6544047d-d5c1-441c-b9b7-d8d98b4261e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/6544047d-d5c1-441c-b9b7-d8d98b4261e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6544047d-d5c1-441c-b9b7-d8d98b4261e8-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 13:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $SQQQ expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/3355e805-a0ef-4820-bf2f-470b2c18e6f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/3355e805-a0ef-4820-bf2f-470b2c18e6f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3355e805-a0ef-4820-bf2f-470b2c18e6f8-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 13:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lbn_2111 opened a long naked call on $BITO expiring 2022-12-16</title>
+      <link>https://thetagang.com/lbn_2111/4121737e-2ee1-4f84-8a55-22481832fff8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lbn_2111/4121737e-2ee1-4f84-8a55-22481832fff8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4121737e-2ee1-4f84-8a55-22481832fff8-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 14:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/cd0e9ee4-8ae0-4872-baaf-bfce7d1bab41</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/cd0e9ee4-8ae0-4872-baaf-bfce7d1bab41'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cd0e9ee4-8ae0-4872-baaf-bfce7d1bab41-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 15:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $UDN expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/282975aa-5a69-4ae1-86da-d61053ddac06</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/282975aa-5a69-4ae1-86da-d61053ddac06'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">282975aa-5a69-4ae1-86da-d61053ddac06-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $UDN expiring 2022-08-19</title>
+      <link>https://thetagang.com/mehmehmeh/17ac041f-6e98-4c37-a5f1-bb1d7ed256ed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/17ac041f-6e98-4c37-a5f1-bb1d7ed256ed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17ac041f-6e98-4c37-a5f1-bb1d7ed256ed-closing</guid>
+      <pubDate>Wed, 20 Jul 2022 16:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/70f1f1bd-9fc6-4687-94d1-b6b925164c6f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/70f1f1bd-9fc6-4687-94d1-b6b925164c6f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">70f1f1bd-9fc6-4687-94d1-b6b925164c6f-opening</guid>
+      <pubDate>Wed, 20 Jul 2022 22:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lbn_2111 opened a long naked call on $BITO expiring 2022-09-16</title>
+      <link>https://thetagang.com/lbn_2111/0e0524bd-1f5e-4579-b6f2-aea5000e192b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lbn_2111/0e0524bd-1f5e-4579-b6f2-aea5000e192b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0e0524bd-1f5e-4579-b6f2-aea5000e192b-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 14:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Knoschp closed a long naked call on $BA expiring 2022-07-21</title>
+      <link>https://thetagang.com/Knoschp/1270c410-08df-4260-9915-03ccd5adda21</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Knoschp/1270c410-08df-4260-9915-03ccd5adda21'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1270c410-08df-4260-9915-03ccd5adda21-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 16:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a long naked call on $PSNY expiring 2023-01-20</title>
+      <link>https://thetagang.com/Burnttoast/57effad1-bf41-4a9a-a8f6-03658f5c1dfe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/57effad1-bf41-4a9a-a8f6-03658f5c1dfe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">57effad1-bf41-4a9a-a8f6-03658f5c1dfe-opening</guid>
+      <pubDate>Thu, 21 Jul 2022 16:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 TCB47 closed a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/TCB47/601bdd54-5432-4e7f-acda-4bccedb69fb8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/601bdd54-5432-4e7f-acda-4bccedb69fb8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">601bdd54-5432-4e7f-acda-4bccedb69fb8-closing</guid>
+      <pubDate>Thu, 21 Jul 2022 18:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long naked call on $SPY expiring 2022-07-22</title>
+      <link>https://thetagang.com/mehmehmeh/ff2f5dce-1813-4ae7-afee-81e9d6dc83d2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/ff2f5dce-1813-4ae7-afee-81e9d6dc83d2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ff2f5dce-1813-4ae7-afee-81e9d6dc83d2-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 13:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 manhphuho opened a long naked call on $AMD expiring 2024-01-19</title>
+      <link>https://thetagang.com/manhphuho/a7d9dd3b-be51-44d3-b292-8f9ca6ab9e26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/manhphuho/a7d9dd3b-be51-44d3-b292-8f9ca6ab9e26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a7d9dd3b-be51-44d3-b292-8f9ca6ab9e26-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 13:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 j1a closed a long naked call on $NVDA expiring 2022-07-22</title>
+      <link>https://thetagang.com/j1a/4bb79fdf-8e3f-4fe2-8e31-2a6f64b375dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/j1a/4bb79fdf-8e3f-4fe2-8e31-2a6f64b375dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4bb79fdf-8e3f-4fe2-8e31-2a6f64b375dd-closing</guid>
+      <pubDate>Fri, 22 Jul 2022 15:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Smoothbrain69 opened a long naked call on $BBBY expiring 2022-09-16</title>
+      <link>https://thetagang.com/Smoothbrain69/f9333f8e-ecbc-4734-b541-588ca6428aab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/f9333f8e-ecbc-4734-b541-588ca6428aab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f9333f8e-ecbc-4734-b541-588ca6428aab-opening</guid>
+      <pubDate>Fri, 22 Jul 2022 18:52:25 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
